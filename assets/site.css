@@ -182,3 +182,8 @@ input[type=radio], input[type=checkbox] { accent-color: var(--bamboo); width: 1.
   .office-count { grid-column: 2; grid-row: auto; white-space: normal; }
   .home-ballot, .quiz-setup, .result { padding: 1.25rem; border-radius: 1rem; }
 }
+
+/* 選票張數 */
+.ballot-total { font-size: 1.05rem; margin: 0 0 .5rem; }
+.ballot-total b { font-family: var(--kai); font-size: 1.6em; color: var(--persimmon); font-weight: 400; }
+.ballot-votes { display: inline-block; margin-left: .5rem; padding: 0 .55rem; border-radius: 999px; background: var(--sky); color: var(--bamboo); font-family: var(--sans); font-size: .8rem; vertical-align: .15em; white-space: nowrap; }

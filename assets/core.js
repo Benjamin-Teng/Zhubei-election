@@ -147,11 +147,18 @@
     });
   }
 
+  // 每個職務一張選票、只圈 1 人；多席選區（縣議員、市民代表）也一樣只圈 1 人
   function ballotList(p) {
-    return `<ol class="my-ballot">${ballot(p).map(({ office: o, group: g, needVillage }) => `
+    const rows = ballot(p);
+    const votes = rows.filter((r) => r.group).length;
+    const pending = rows.some((r) => !r.group && r.needVillage);
+    const total = pending
+      ? `<p class="ballot-total">目前確定 <b>${votes}</b> 張票；選好你住的里，才知道市民代表、里長與縣議員的選區。</p>`
+      : `<p class="ballot-total">你總共會領到 <b>${votes}</b> 張選票，每張圈 1 人，共投 <b>${votes}</b> 票。</p>`;
+    return `${total}<ol class="my-ballot">${rows.map(({ office: o, group: g, needVillage }) => `
       <li class="ballot-row">
-        <span class="ballot-office">${esc(o.name)}</span>
-        ${g ? `<a class="ballot-group" href="#/office/${o.id}/${g.id}">${esc(g.name)}<small>${g.candidates.length} 位候選人${g.seats ? `，應選 ${g.seats} 席` : ''}</small></a>`
+        <span class="ballot-office">${esc(o.name)}${g ? '<span class="ballot-votes">圈 1 人</span>' : ''}</span>
+        ${g ? `<a class="ballot-group" href="#/office/${o.id}/${g.id}">${esc(g.name)}<small>${g.candidates.length} 位候選人${g.seats ? `，應選 ${g.seats} 席` : ''}${g.seats > 1 ? '，仍只圈 1 人' : ''}${g.candidates.length === 1 ? '（同額競選）' : ''}</small></a>`
           : `<span class="ballot-group muted">${needVillage ? '先選你住的里' : '這個身分不投此職務'}</span>`}
       </li>`).join('')}</ol>`;
   }
