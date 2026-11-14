@@ -40,7 +40,7 @@ h3 { font-size: 1.2rem; }
 @keyframes blow { to { stroke-dashoffset: 0; } }
 .hero-text { position: relative; z-index: 1; max-width: 40rem; }
 /* 仿瘦金：細筆楷書，保留易讀性 */
-.couplet { display: grid; gap: .1em; font-weight: 300; font-size: clamp(2.6rem, 7.5vw, 4.6rem); letter-spacing: .2em; line-height: 1.3; margin-bottom: 1rem; }
+.couplet { display: grid; gap: .1em; font-weight: 300; font-size: clamp(1.75rem, calc((100vw - 2.5rem) / 7.8), 4.6rem); letter-spacing: .2em; line-height: 1.3; margin-bottom: 1rem; }
 .couplet span:last-child { padding-left: 1.2em; }
 /* 「北」「竹」兩字藏著竹北：書法字、竹子綠，從細筆中跳出來 */
 .couplet .bamboo {
@@ -92,7 +92,7 @@ input[type=radio], input[type=checkbox] { accent-color: var(--bamboo); width: 1.
 .office-card:hover h2 { color: var(--bamboo); }
 
 .group-info h2 { font-size: 1.3rem; }
-.cand-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(19rem, 1fr)); gap: 1.25rem; }
+.cand-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(19rem, 100%), 1fr)); gap: 1.25rem; }
 .cand-card { grid-template-columns: auto 1fr; gap: .25rem 1rem; background: #fff; border-radius: 1.25rem; padding: 1.25rem 1.4rem; align-content: start; transition: transform .2s ease-out; }
 .cand-card:hover { transform: translateY(-2px); color: inherit; }
 .cand-card .ballot-no { grid-row: 1 / 3; font-family: var(--kai); font-size: 2.5rem; color: var(--persimmon); line-height: 1; }
@@ -111,7 +111,7 @@ input[type=radio], input[type=checkbox] { accent-color: var(--bamboo); width: 1.
 .cand-head h1 { margin-bottom: .2rem; }
 .cand-head .cand-meta, .cand-office { color: var(--ink-soft); }
 .sec-nav { background: var(--mist); padding: .6rem 0; border-bottom: 1px solid var(--sky); }
-.sec-nav a { text-decoration: none; color: var(--ink-soft); }
+.sec-nav a { text-decoration: none; color: var(--ink-soft); display: inline-flex; align-items: center; min-height: 44px; }
 .sec-nav a:hover { color: var(--bamboo); }
 .c-sec { max-width: 46rem; }
 .c-sec h2 { display: flex; align-items: center; gap: 1rem; }
@@ -179,6 +179,6 @@ input[type=radio], input[type=checkbox] { accent-color: var(--bamboo); width: 1.
 @media (max-width: 760px) {
   .home-paths { grid-template-columns: 1fr; gap: 1.5rem; }
   .office-card { grid-template-columns: 2.5rem 1fr; }
-  .office-count { grid-column: 2; grid-row: auto; }
+  .office-count { grid-column: 2; grid-row: auto; white-space: normal; }
   .home-ballot, .quiz-setup, .result { padding: 1.25rem; border-radius: 1rem; }
 }

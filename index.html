@@ -100,6 +100,8 @@ window.THEME = {
       else { layer.remove(); chars.forEach((c) => c.classList.add('revealed')); }
     };
     requestAnimationFrame(tick);
+    // 摺疊手機展開／收合或旋轉時，葉子路徑已對不上字的位置：收掉葉子、直接顯字
+    addEventListener('resize', () => { layer.remove(); chars.forEach((c) => c.classList.add('revealed')); }, { once: true });
     // 保險：無論動畫是否跑完，8 秒後字一定出現
     setTimeout(() => chars.forEach((c) => c.classList.add('revealed')), 8000);
   },

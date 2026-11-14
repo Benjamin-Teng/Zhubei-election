@@ -73,7 +73,7 @@ select { max-width: 100%; }
 .sb-bar { display: block; height: .75rem; position: relative; }
 .sb-bar i { position: absolute; inset: 0 auto 0 0; width: calc(var(--v) * 100%); }
 .sb-val { text-align: right; font-variant-numeric: tabular-nums; }
-.sb-val small { display: block; font-size: .7rem; opacity: .7; }
+.sb-val small { display: block; font-size: .75rem; opacity: .75; }
 .reveal-q ul { list-style: none; padding: 0; }
 .reveal-q li { padding: .4rem 0; }
 .rv-who { display: inline-block; min-width: 4.5rem; margin-right: .75rem; font-weight: 700; }
