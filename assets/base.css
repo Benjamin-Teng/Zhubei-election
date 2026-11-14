@@ -19,7 +19,8 @@ a { color: inherit; }
 
 .site-main { display: block; }
 .toolbar { display: flex; flex-wrap: wrap; gap: .75rem 1rem; align-items: end; margin-bottom: 1.5rem; }
-.group-pick, .toggle { display: inline-flex; gap: .5rem; align-items: center; }
+.group-pick, .toggle { display: inline-flex; gap: .5rem; align-items: center; max-width: 100%; }
+.group-pick select { min-width: 0; flex: 1 1 auto; }
 select { max-width: 100%; }
 
 .crumbs { display: flex; flex-wrap: wrap; gap: .25rem .5rem; margin-bottom: 1rem; font-size: .875rem; }

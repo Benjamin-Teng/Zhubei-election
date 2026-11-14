@@ -33,7 +33,7 @@ window.THEME = {
       <div class="hero-text">
         <h1 class="couplet" aria-label="代馬依北風，竹印擇賢能"><span>代馬依<em class="bamboo">北</em>風</span><span><em class="bamboo">竹</em>印擇賢能</span></h1>
         <p class="hero-cite">上句出自《韓詩外傳》「代馬依北風，飛鳥揚故巢」，北地的馬依戀北風，說的是不忘本。</p>
-        <p class="hero-sub">11 月 28 日星期六。${days > 0 ? `還有 <b>${days}</b> 天，` : ''}這次竹北有 ${total} 位候選人，我們一位一位查了經歷、政績、政見和爭議。</p>
+        <p class="hero-sub">11 月 28 日星期六。${days > 0 ? `還有 <b>${days}</b> 天，` : days === 0 ? '<b>今天就是投票日</b>，' : ''}這次竹北有 ${total} 位候選人，我們一位一位查了經歷、政績、政見和爭議。</p>
         <p class="hero-cta"><a class="btn" href="#/quiz">只看政見做盲測</a><a class="btn ghost" href="#/offices">先看候選人</a></p>
       </div>
     </section>`;

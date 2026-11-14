@@ -29,7 +29,11 @@
     return a;
   }
 
-  const ELECTION_DAY = new Date(D.meta.election_date + 'T08:00:00+08:00');
+  // 以台北時區的「日期」相減：投票日前一天顯示 1，當天顯示 0
+  function daysToElection() {
+    const today = new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Taipei' }).format(new Date());
+    return Math.round((Date.parse(D.meta.election_date) - Date.parse(today)) / 86400000);
+  }
   const IDENTITIES = [
     { id: 'general', label: '一般選民' },
     { id: 'pi', label: '平地原住民' },
@@ -154,7 +158,7 @@
 
   // ---------- 頁面：首頁 ----------
   function pageHome(main) {
-    const days = Math.ceil((ELECTION_DAY - new Date()) / 86400000);
+    const days = daysToElection();
     const total = Object.keys(D.candidates).length;
     const ctx = { days, total, offices: D.offices, esc };
     main.innerHTML = `
@@ -269,8 +273,9 @@
     const o = office(oid || 'magistrate') || D.offices[0];
     if (!gid) { const mine = groupFor(o, profile); gid = mine ? mine.id : o.groups[0].id; }
     const g = groupOf(o, gid);
-    const list = g.candidates.map(cand).sort((a, b) => (a.ballot_number ?? 99) - (b.ballot_number ?? 99));
     const blind = store.get('blindCompare', false);
+    const sorted = g.candidates.map(cand).sort((a, b) => (a.ballot_number ?? 99) - (b.ballot_number ?? 99));
+    const list = blind ? shuffle(sorted, `compare:${o.id}:${g.id}`) : sorted;
     const topics = [...new Set(list.flatMap((c) => c.platform.map((p) => p.topic || '其他')))];
     const label = (c, i) => (blind ? `候選人 ${String.fromCharCode(65 + i)}` : `${c.ballot_number ?? '–'} ${c.name}`);
     main.innerHTML = `
@@ -360,7 +365,8 @@
     return out;
   }
 
-  const quiz = Object.assign({ answers: {}, started: false }, store.get('quiz', {}));
+  const quiz = Object.assign({ answers: {}, version: D.meta.version }, store.get('quiz', {}));
+  if (quiz.version !== D.meta.version) { quiz.answers = {}; quiz.version = D.meta.version; }
   function saveQuiz() { store.set('quiz', quiz); }
 
   function pageQuizSetup(main) {
@@ -380,15 +386,20 @@
           return thin.length ? `<p class="muted">政見資料還不夠，暫不出題：${thin.map(({ office: o, group: g }) => `${esc(o.short)}（${esc(g.name)}）`).join('、')}。選舉公報出刊後補上。</p>` : '';
         })()}
         <div class="quiz-actions">
-          ${qs.length ? `<a class="btn" href="#/quiz/q/1" id="quiz-start">${Object.keys(quiz.answers).length ? '繼續作答' : '開始作答'}</a>` : ''}
-          ${Object.keys(quiz.answers).length ? '<button class="btn ghost" type="button" id="quiz-reset">清除答案重來</button>' : ''}
+          ${qs.length ? `<a class="btn" href="#/quiz/q/1" id="quiz-start">${qs.some((q) => (quiz.answers[q.key] || []).length) ? '繼續作答' : '開始作答'}</a>` : ''}
+          ${Object.values(quiz.answers).some((a) => a.length) ? '<button class="btn ghost" type="button" id="quiz-reset">清除答案重來</button>' : ''}
         </div>
       </section>
       <details class="quiz-method"><summary>怎麼計分</summary>
         <p>每個選項都來自某位候選人的政見或過往政績。你勾的選項算那位候選人一分，再除以（他在題目裡出現的選項總數＋1），得到契合度。用比例而非總分，是為了不讓資料比較多的候選人占便宜。</p>
         <p>同額競選、或只有一位候選人有資料的選區不出題。</p>
       </details>`;
-    bindProfileForm('quiz-profile', () => pageQuizSetup(main));
+    bindProfileForm('quiz-profile', () => {
+      const a = document.activeElement;
+      const sel = a && a.name ? (a.type === 'radio' ? `[name="${a.name}"][value="${a.value}"]` : `[name="${a.name}"]`) : null;
+      pageQuizSetup(main);
+      if (sel) document.querySelector(`#quiz-profile ${sel}`)?.focus();
+    });
     const r = document.getElementById('quiz-reset');
     if (r) r.addEventListener('click', () => { quiz.answers = {}; saveQuiz(); pageQuizSetup(main); });
   }
@@ -417,7 +428,7 @@
             <label class="q-opt">
               <input type="checkbox" name="opt" value="${esc(x.id)}" ${chosen.has(x.id) ? 'checked' : ''}>
               <span class="q-mark" aria-hidden="true"></span>
-              <span class="q-text">${esc(x.text)}${x.kind ? `<small class="q-kind">${esc(x.kind)}</small>` : ''}</span>
+              <span class="q-text">${esc(x.text)}</span>
             </label>`).join('')}
         </form>
         <div class="quiz-nav">
@@ -448,7 +459,7 @@
       const rows = Object.values(s.cands).map((r) => ({ ...r, pct: r.hits / (r.total + 1) }))
         .sort((a, b) => b.pct - a.pct || b.hits - a.hits);
       const top = rows[0];
-      const winners = top && top.hits ? rows.filter((r) => r.pct === top.pct && r.hits === top.hits) : [];
+      const winners = top && top.hits ? rows.filter((r) => Math.abs(r.pct - top.pct) < 1e-9) : [];
       return { ...s, rows, winners };
     });
   }
@@ -546,6 +557,7 @@
   });
   document.addEventListener('click', (e) => {
     const a = e.target.closest('[data-scroll]');
+    if (e.target.closest('.skip')) { e.preventDefault(); document.getElementById('main').focus(); return; }
     if (a) { e.preventDefault(); document.getElementById(a.dataset.scroll)?.scrollIntoView({ behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' }); }
   });
 

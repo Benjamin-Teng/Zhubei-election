@@ -1,6 +1,7 @@
 // 把 research/raw/*.json 合併成網站用的 assets/data.js。
 // 用法：node scripts/build-data.mjs
 import { readFileSync, writeFileSync, existsSync } from 'node:fs';
+import { createHash } from 'node:crypto';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -64,7 +65,7 @@ single(load('magistrate.json'), {
   const mi = load('councilor-mountain-indigenous.json');
   const groups = [];
   const mk = (raw, id, elig, fallback) => raw && groups.push({
-    id, name: raw.district || fallback, eligibility: elig, villages: null,
+    id, name: elig === 'general' ? (raw.district || fallback) : `${raw.district || ''}（${fallback}）`, eligibility: elig, villages: null,
     seats: raw.seats ?? null, note: raw.district_note || null,
     candidates: (raw.candidates || []).map((c) => addCandidate(c, 'councilor', id)),
   });
@@ -93,8 +94,8 @@ single(load('magistrate.json'), {
     }
     for (const v of allVillages) if (!covered.has(v)) warnings.push(`縣議員選區沒有涵蓋「${v}」`);
   } else mk(general, 'general', 'general', '竹北市選區');
-  mk(pi, 'pi', 'pi', '平地原住民選區');
-  mk(mi, 'mi', 'mi', '山地原住民選區');
+  mk(pi, 'pi', 'pi', '平地原住民');
+  mk(mi, 'mi', 'mi', '山地原住民');
   if (groups.length) offices.push({
     id: 'councilor', name: '新竹縣議員', short: '縣議員', level: '縣',
     desc: '監督縣府、審議縣預算與自治條例。竹北是複數席次選區，一張選票圈一人。',
@@ -159,8 +160,9 @@ for (const [oid, qs] of Object.entries(quiz)) {
   }
 }
 
+const version = createHash('sha1').update(JSON.stringify({ offices, candidates, quiz })).digest('hex').slice(0, 12);
 const data = {
-  meta: { election_date: '2026-11-28', built_at: new Date().toISOString().slice(0, 10) },
+  meta: { election_date: '2026-11-28', built_at: new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Taipei' }).format(new Date()), version },
   offices,
   villages: villages.map((v) => v.village),
   candidates,
