@@ -31,6 +31,12 @@
 
 `kata ready` 看可接的任務。接手時先看：
 
+- `bn2n`（人）：雲端排程「竹北選舉：公報上網後補政見」
+  （<https://claude.ai/code/routines/trig_01Cq8mBexh7uXwEXAYJN7u8p>，每 6 小時）
+  連不到 `eebulletin.cec.gov.tw`，要在 Default 環境開放網域才會生效。排程補完會直接推 main；
+  本機推送前先 `git pull --rebase`。
+- `vt4b`（人）：林啟賢 2017 年涉貪案的判決結果要用裁判書系統查，查到後更新 status。
+
 - `wwvk`：11/17 名單公告後，各 JSON 的 `official_list_source` 換成正式公告；11/19 政見會後補縣長政見（朱定瑀最少）。
 - `eq2t`、`w18j`：選舉公報上網後補市民代表、里長的 2026 政見。補完後市民代表與里長會自動出題（core.js 依議題分組出題並遮姓名），但要人工檢查選項有沒有洩漏身分的字眼。
 - `xrq8`：王炳漢 2019 鄰長買票案、林秉君掃描版質詢紀錄，待人工核對。
