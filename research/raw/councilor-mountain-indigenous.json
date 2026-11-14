@@ -1,0 +1,249 @@
+{
+  "office_id": "councilor-mi",
+  "office_name": "新竹縣議員（第21屆）山地原住民",
+  "seats": 1,
+  "district": "第13選舉區",
+  "district_note": "第13選舉區＝尖石鄉及竹北市、湖口鄉、新豐鄉、關西鎮、新埔鎮、橫山鄉之山地原住民，應選 1 席，婦女保障 0 席；候選人 5 人。竹北市的山地原住民屬本區（不是第14選舉區；第14選舉區為五峰鄉及芎林鄉、竹東鎮、寶山鄉、北埔鄉、峨眉鄉之山地原住民）。依據：中央選舉委員會 115 年 8 月 20 日中選務字第1153150253號公告 https://web.cec.gov.tw/api/file/45d8e965-f63a-46d5-b636-7d81e47cf4d1.pdf 。上屆（第20屆）山地原住民議員選區在新竹縣議會網站上標示為「尖石區」「五峰區」各 1 席。",
+  "who_votes": "設籍竹北市（及尖石鄉、湖口鄉、新豐鄉、關西鎮、新埔鎮、橫山鄉）、具山地原住民身分的選民。這些竹北市民投本區，不投竹北的一般區域選區（第1、2選舉區）。",
+  "official_list_source": "https://web.cec.gov.tw/api/file/76561c9b-2eaa-4cee-9b4e-de1f46510459",
+  "researched_at": "2026-11-14",
+  "candidates": [
+    {
+      "id": "councilor-mi-01",
+      "ballot_number": 1,
+      "name": "曾國大 Masaw．Moto",
+      "party": "中國國民黨",
+      "gender": "男",
+      "birth_year": 1969,
+      "incumbent": false,
+      "education": [
+        "中華科大碩士班",
+        "台灣警察專科學校專科班第六期",
+        "仁愛高農農業土木科",
+        "新竹縣立尖石國民中學",
+        "新竹縣立嘉興國民小學"
+      ],
+      "experience": [
+        "新竹縣尖石鄉鄉長（2022年選舉公報已列為經歷，2026年仍在任）",
+        "尖石鄉伊萬沙布曾氏宗親會理事長",
+        "尖石鄉體育會理事長",
+        "警員、刑事偵查員、分駐派出所所長",
+        "行政警察人員丙等及乙等考試及格"
+      ],
+      "background": "現任新竹縣尖石鄉鄉長，2022年以現任鄉長身分由中國國民黨推薦參選第19屆鄉長。警職出身，曾任刑事偵查員、分駐派出所所長。本次由國民黨提名參選山地原住民（第十三）選區縣議員。",
+      "achievements": [
+        {
+          "text": "鄉公所施政成果發表指出，任內於112年成立尖石鄉土地管理所專責土地業務，並活化那羅復興煤礦、鐵嶺基地、油羅溪河濱公園等公有土地。",
+          "source": 0
+        },
+        {
+          "text": "同份施政成果指出，任內在鄉內廣設14處文化健康站，並在鄉公所即時製發健保卡，減少居民往返。",
+          "source": 0
+        },
+        {
+          "text": "同份施政成果指出，任內爭取原住民地區簡易自來水與供水設施計畫，並推動垃圾隨袋徵收與夜間不落地清運。",
+          "source": 0
+        }
+      ],
+      "platform": [],
+      "controversies": [],
+      "livelihood": [
+        {
+          "text": "2022年參選鄉長時政見提出逐年汰換接駁車輛，提供幸福巴士、DRTS、噗噗共乘等原鄉公共運輸服務（屬2022年鄉長政見）。",
+          "source": 2
+        },
+        {
+          "text": "2022年鄉長政見提出解決原鄉建地不足，以及民宿、露營業合法化問題（屬2022年鄉長政見）。",
+          "source": 2
+        },
+        {
+          "text": "2026年7月颱風後，以鄉長身分陪同縣長勘查尖石鄉義興大橋旁縣道120線油羅溪堤防沖毀段。",
+          "source": 3
+        },
+        {
+          "text": "2026 年 5 月報導指出鄉公所正規劃在玉峰村辦理五月桃晚會，他表示希望提升尖石農產品品牌能見度。",
+          "source": 1
+        }
+      ],
+      "sources": [
+        {
+          "title": "蕃新聞／報新聞（2026-01-16）竹縣尖石鄉公所發表114年施政成果暨慶祝土管所3週年",
+          "url": "https://n.yam.com/Article/20260116140439",
+          "accessed": "2026-11-14"
+        },
+        {
+          "title": "聯合新聞網轉載中央社（2026-05-14）新竹尖石五月桃迎產季 鄉公所辦晚會助行銷",
+          "url": "https://udn.com/news/story/7324/9501818",
+          "accessed": "2026-11-14"
+        },
+        {
+          "title": "中選會選舉公報：111年新竹縣尖石鄉第19屆鄉長、第22屆鄉民代表、村長選舉公報",
+          "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/03%E9%84%89%E9%8E%AE%E5%B8%82%E9%95%B7/%E3%80%90%E5%B0%96%E7%9F%B3%E9%84%89%E3%80%91%E9%84%89%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+          "accessed": "2026-11-14"
+        },
+        {
+          "title": "風傳媒（2026-07-12）楊文科視察尖石、內灣災情 竹縣山區5校明停班停課",
+          "url": "https://www.storm.mg/article/11148725",
+          "accessed": "2026-11-14"
+        },
+        {
+          "title": "自由時報（2026-06-09）竹縣2鄉長選戰 國民黨開放競選",
+          "url": "https://news.ltn.com.tw/news/HsinchuCounty/paper/1758123",
+          "accessed": "2026-11-14"
+        },
+        {
+          "title": "新竹縣選舉委員會「115年縣市議員選舉候選人登記冊」(0831-0904)",
+          "url": "https://web.cec.gov.tw/api/file/30927dca-f200-425f-b462-281a353c8ec7",
+          "accessed": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "id": "councilor-mi-02",
+      "ballot_number": 2,
+      "name": "范經生",
+      "party": "無黨籍",
+      "gender": "男",
+      "birth_year": 1977,
+      "incumbent": false,
+      "education": [],
+      "experience": [],
+      "background": null,
+      "achievements": [],
+      "platform": [],
+      "controversies": [],
+      "livelihood": [],
+      "sources": [
+        {
+          "title": "新竹縣選舉委員會「115年縣市議員選舉候選人登記冊」(0831-0904)",
+          "url": "https://web.cec.gov.tw/api/file/30927dca-f200-425f-b462-281a353c8ec7",
+          "accessed": "2026-11-14"
+        },
+        {
+          "title": "新竹縣選舉委員會「115年新竹縣縣議員選舉候選人抽籤結果」(2026-10-27)",
+          "url": "https://web.cec.gov.tw/api/file/76561c9b-2eaa-4cee-9b4e-de1f46510459",
+          "accessed": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "id": "councilor-mi-03",
+      "ballot_number": 3,
+      "name": "林世偉",
+      "party": "無黨籍",
+      "gender": "男",
+      "birth_year": 1967,
+      "incumbent": false,
+      "education": [
+        "國立竹南高中"
+      ],
+      "experience": [
+        "2022年選舉公報自述：離開竹科後回到尖石鄉，從事保護山林、土地的工作，並參與人權運動、推動台灣原住民自治"
+      ],
+      "background": "2022年曾以無黨籍身分參選新竹縣議員尖石區（當屆第十二選舉區）。當年公報自述曾任職竹科，後返回尖石鄉從事山林與土地保護，並推動原住民自治。",
+      "achievements": [],
+      "platform": [],
+      "controversies": [],
+      "livelihood": [
+        {
+          "text": "2022年參選政見提出在尖石鄉設立國立綜合高中，並成立尖石鄉旅遊服務中心、協助鄉民考取導覽及導遊證照、協助青年回鄉發展（屬2022年政見）。",
+          "source": 0
+        }
+      ],
+      "sources": [
+        {
+          "title": "中選會選舉公報：111年新竹縣議員選舉公報（第8至13選舉區，含當屆平地原住民、尖石區）",
+          "url": "https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/06%E7%B8%A3%E5%B8%82%E8%AD%B0%E5%93%A1/111%E5%B9%B4/07%E6%96%B0%E7%AB%B9%E7%B8%A3/%E6%96%B0%E7%AB%B9%E7%B8%A3%E7%AC%AC12%E9%81%B8%E8%88%89%E5%8D%80.pdf",
+          "accessed": "2026-11-14"
+        },
+        {
+          "title": "新竹縣選舉委員會「115年縣市議員選舉候選人登記冊」(0831-0904)",
+          "url": "https://web.cec.gov.tw/api/file/30927dca-f200-425f-b462-281a353c8ec7",
+          "accessed": "2026-11-14"
+        },
+        {
+          "title": "新竹縣選舉委員會「115年新竹縣縣議員選舉候選人抽籤結果」(2026-10-27)",
+          "url": "https://web.cec.gov.tw/api/file/76561c9b-2eaa-4cee-9b4e-de1f46510459",
+          "accessed": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "id": "councilor-mi-04",
+      "ballot_number": 4,
+      "name": "羅恩加",
+      "party": "無黨籍",
+      "gender": "男",
+      "birth_year": 1979,
+      "incumbent": false,
+      "education": [],
+      "experience": [],
+      "background": null,
+      "achievements": [],
+      "platform": [],
+      "controversies": [],
+      "livelihood": [],
+      "sources": [
+        {
+          "title": "新竹縣選舉委員會「115年縣市議員選舉候選人登記冊」(0831-0904)",
+          "url": "https://web.cec.gov.tw/api/file/30927dca-f200-425f-b462-281a353c8ec7",
+          "accessed": "2026-11-14"
+        },
+        {
+          "title": "新竹縣選舉委員會「115年新竹縣縣議員選舉候選人抽籤結果」(2026-10-27)",
+          "url": "https://web.cec.gov.tw/api/file/76561c9b-2eaa-4cee-9b4e-de1f46510459",
+          "accessed": "2026-11-14"
+        }
+      ]
+    },
+    {
+      "id": "councilor-mi-05",
+      "ballot_number": 5,
+      "name": "高忠正",
+      "party": "無黨籍",
+      "gender": "男",
+      "birth_year": 1969,
+      "incumbent": false,
+      "education": [
+        "國立桃園農工化工科",
+        "尖石國中",
+        "嘉興國小"
+      ],
+      "experience": [
+        "拿互依教會長老（2022年公報所列）",
+        "嘉樂社區總幹事",
+        "尖石國中家長會長（三任）",
+        "尖石後備輔導中心輔導員組長",
+        "海軍陸戰隊特勤隊16期",
+        "海軍陸戰隊領導士官66期"
+      ],
+      "background": "2022年曾以無黨籍身分參選新竹縣尖石鄉第22屆鄉民代表（第一選舉區）。當年公報所列經歷包括海軍陸戰隊特勤隊、尖石鄉嘉樂社區總幹事與尖石國中家長會長。",
+      "achievements": [],
+      "platform": [],
+      "controversies": [],
+      "livelihood": [
+        {
+          "text": "2022年參選尖石鄉民代表時政見提出不定期巡視部落農路並向上爭取經費以利農產品運輸，以及爭取各部落基礎建設（屬2022年鄉代政見）。",
+          "source": 0
+        }
+      ],
+      "sources": [
+        {
+          "title": "中選會選舉公報：111年新竹縣尖石鄉第19屆鄉長、第22屆鄉民代表、村長選舉公報",
+          "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/03%E9%84%89%E9%8E%AE%E5%B8%82%E9%95%B7/%E3%80%90%E5%B0%96%E7%9F%B3%E9%84%89%E3%80%91%E9%84%89%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+          "accessed": "2026-11-14"
+        },
+        {
+          "title": "新竹縣選舉委員會「115年縣市議員選舉候選人登記冊」(0831-0904)",
+          "url": "https://web.cec.gov.tw/api/file/30927dca-f200-425f-b462-281a353c8ec7",
+          "accessed": "2026-11-14"
+        },
+        {
+          "title": "新竹縣選舉委員會「115年新竹縣縣議員選舉候選人抽籤結果」(2026-10-27)",
+          "url": "https://web.cec.gov.tw/api/file/76561c9b-2eaa-4cee-9b4e-de1f46510459",
+          "accessed": "2026-11-14"
+        }
+      ]
+    }
+  ]
+}

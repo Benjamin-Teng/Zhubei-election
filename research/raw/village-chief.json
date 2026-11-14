@@ -1,0 +1,2586 @@
+{
+  "office_id": "village-chief",
+  "office_name": "竹北市里長",
+  "who_votes": "在竹北市各里設有戶籍、年滿 20 歲且繼續居住 4 個月以上的選舉人，投自己戶籍所在里的里長（每里應選 1 名，共 31 里）；原住民身分者同樣投所屬里的里長，里長選舉不分原住民選區。",
+  "official_list_source": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+  "researched_at": "2026-11-14",
+  "villages": [
+    {
+      "village": "斗崙里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-doulun-01",
+          "ballot_number": 1,
+          "name": "張琬媃",
+          "party": "無黨籍",
+          "gender": "女",
+          "birth_year": 1991,
+          "incumbent": true,
+          "education": [
+            "中華大學營建管理學系 碩士/學士",
+            "中華大學景觀建築學系 輔系"
+          ],
+          "experience": [
+            "現任里長",
+            "竹北市張姓宗親會 總幹事（2022 年公報所載）",
+            "新竹縣109、110年度及新竹市社區規畫師",
+            "新竹縣108年度綠巨人計畫銀獎",
+            "斗崙社區發展協會 理事",
+            "奧林匹克單車協會 副總幹事",
+            "斐陶斐榮譽會員",
+            "台灣世曦工程顧問公司專案計畫案研究助理",
+            "中華大學營管系 會長"
+          ],
+          "background": "依 2022 年選舉公報自述，2022 年登記時為斗崙里現任里長，並任竹北市張姓宗親會總幹事、斗崙社區發展協會理事。學歷為中華大學營建管理學系碩士／學士，曾任新竹縣、新竹市社區規畫師。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：努力爭取各項基層建設的預算編列，道路平整、路燈明亮、暢通水溝，維護里民安全及高生活品質。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：為政策宣導與公告事項，擁有實體與e化平台併行，增加多元溝通聯繫管道；橋接市公所與里民之間雙向互動式的溝通橋樑。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：里內弱勢族群急難救助及社會福利轉介服務。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：延續斗崙里環保志工團隊，繼續為斗崙里街道環境清潔服務；重視斗崙里環境綠美化和整潔。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：舉辦里民活動，結合社區發展協會辦理文藝、親子等活動，鼓勵里民共同經營與參與公共事務。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-doulun-02",
+          "ballot_number": 2,
+          "name": "葉美玲",
+          "party": "無黨籍",
+          "gender": "女",
+          "birth_year": 1970,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "village": "鹿場里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-luchang-01",
+          "ballot_number": 1,
+          "name": "范光仁",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1967,
+          "incumbent": true,
+          "education": [
+            "親民工專肄業"
+          ],
+          "experience": [
+            "竹北市第九屆鹿場里長"
+          ],
+          "background": "依 2022 年選舉公報自述，曾任竹北市第九屆鹿場里長，學歷為親民工專肄業。2022 年登記參選竹北市第十屆里長選舉。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：不希望未經妥善規劃（例如：有完善就學規劃，不排擠現有里民就近入學權、整體生活機能及交通改善等規劃），並取得多數里民支持前，就將社會住宅基地設立於鹿場里。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：鹿場里的嫌惡設施清潔隊本部造成垃圾異味與垃圾飛揚，希望清潔隊本部能夠遷移；若不能遷移，竹北市公所要有環保回饋金，用於里民的居住環境消毒及防止惡臭改善的基金。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：爭取縣政府改善自強南路與興隆路二段路口、自強一路與興隆路二段路口，希望上述二處 T 型路口能打通分隔島並增設紅綠燈號誌。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：里內四處公有空地髒亂及有治安隱憂，爭取縣政府改善，建議增建為休閒綠廊帶及一處籃球練習場。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：建議縣政府遷移里內宮廟場所（六善宮），改建為休閒公園。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-luchang-02",
+          "ballot_number": 2,
+          "name": "范語庭",
+          "party": "無黨籍",
+          "gender": "女",
+          "birth_year": 2000,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "village": "東平里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-dongping-01",
+          "ballot_number": 1,
+          "name": "彭美齡",
+          "party": "無黨籍",
+          "gender": "女",
+          "birth_year": 1975,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-dongping-02",
+          "ballot_number": 2,
+          "name": "林顥峰",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1957,
+          "incumbent": true,
+          "education": [
+            "省立竹東高中",
+            "縣立六家國中",
+            "縣立六家國小"
+          ],
+          "experience": [
+            "105年度獲內政部3等內政專業獎章",
+            "102年度獲全國特優里長",
+            "75.87.90.94年度全縣特優里長",
+            "竹北市第1~9屆里長",
+            "竹北鄉第十二屆村長"
+          ],
+          "background": "依 2022 年選舉公報自述，曾任竹北鄉第十二屆村長及竹北市第 1 至 9 屆里長，並列有全縣特優里長、全國特優里長及內政部內政專業獎章等經歷。公報自述以臉書「竹北市東平家族」為里政資訊平台。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：秉持初心，認真熱忱，勤快，務實為里民服務，始終如一。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：持續以竹北市東平家族臉書（FB）為平台，里政資訊不打烊。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：持續改善和加強東平里的居住生活環境。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "village": "中興里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-zhongxing-01",
+          "ballot_number": 1,
+          "name": "莊淙澍",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1984,
+          "incumbent": true,
+          "education": [
+            "國防大學政治學博士",
+            "國防大學戰略與國際事務碩士",
+            "國立台北大學不動產與城鄉環境學士",
+            "台北市立成功高中"
+          ],
+          "experience": [
+            "竹北市第九屆中興里里長",
+            "內政部消防署績優防災士",
+            "竹北市中興社區發展協會總幹事",
+            "竹北市中興社區守望相助隊總幹事",
+            "新竹縣社區規劃師結訓",
+            "協助辦理中興社區長照2.0C級據點",
+            "協助設置中興里集會所疫苗施打站"
+          ],
+          "background": "依 2022 年選舉公報自述，曾任竹北市第九屆中興里里長，並任中興社區發展協會總幹事、中興社區守望相助隊總幹事。學歷為國防大學政治學博士。公報自述以臉書「竹北市中興里大小事」提供網路服務。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：即時服務——持續以臉書「竹北市中興里大小事」為平台提供網路即時服務；建立里內路平、除草、通水溝、水溝蓋與路燈報修的線上即時服務網；建立 E 化防災服務網。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：透明廉政——每年召開 1 次里民大會並將會議紀錄上網公告；里辦公處所發公文全部上網公開。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：親子共學——設立親子圖書館；建立特色公園與玩具圖書館。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：環保永續——持續運營「中興里蜂收站」推動資源回收；維持中興社區低碳永續家園銀級認證，推動里內社區大樓申請低碳社區標章；推動公共建物建設太陽能屋頂；結合水圳森林公園、繩索公園與新瓦屋客家文化園區推動低碳親子教育。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：銀髮樂活——持續辦理社區關懷據點與預防延緩失能課程；完善中興社區「長照2.0」各項服務。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ],
+      "note": "同額競選：只有 1 人登記並完成抽籤，無對手。"
+    },
+    {
+      "village": "隘口里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-aikou-01",
+          "ballot_number": 1,
+          "name": "陳能昌",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1962,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ],
+      "note": "同額競選：只有 1 人登記並完成抽籤，無對手。"
+    },
+    {
+      "village": "東海里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-donghai-01",
+          "ballot_number": 1,
+          "name": "胡瑞琴",
+          "party": "無黨籍",
+          "gender": "女",
+          "birth_year": 1966,
+          "incumbent": true,
+          "education": [
+            "芎林國小、芎林國中",
+            "新竹市私立光復高級中學"
+          ],
+          "experience": [
+            "新竹縣政府縣政顧問",
+            "竹北市農會代表",
+            "竹北市守望相助協會理事長",
+            "新竹縣總工會理事",
+            "新竹縣汽車修理職業工會監召",
+            "台灣省汽車修理聯合會理事",
+            "佳昇企業社負責人",
+            "民防第一中隊高鐵小隊隊員",
+            "111年全國勞工聯盟總會模範勞工楷模",
+            "榮獲109年勞動部全國模範勞工"
+          ],
+          "background": "依 2022 年選舉公報自述，曾任新竹縣政府縣政顧問、竹北市農會代表、竹北市守望相助協會理事長，並為佳昇企業社負責人。公報自述曾獲 109 年勞動部全國模範勞工。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：定期開里民大會，聽取里民的聲音，做好基層與政府間的溝通橋樑。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：爭取經費建設美化社區各項設施，維護地方環境、推廣環保志工。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：促請竹北市公所盡快完成東海里活動中心興建工程；爭取東海里老人會館老舊改建或整修方案。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：爭取老人、弱勢及獨居族群福利。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：注重維護治安，促進警民合作，預防犯罪之發生。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：爭取生醫園區回饋地方或里民方案。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-donghai-02",
+          "ballot_number": 2,
+          "name": "簡秀蓮",
+          "party": "無黨籍",
+          "gender": "女",
+          "birth_year": 1963,
+          "incumbent": false,
+          "education": [
+            "牡丹國小",
+            "雙溪國中"
+          ],
+          "experience": [
+            "竹北市第八屆、第九屆東海里長（2022 年公報所載，2022 年未當選）",
+            "東海社區發展協會理事長（2022 年公報所載）",
+            "竹北市守望相助協會理事（2022 年公報所載）",
+            "東海社區發展協會志工",
+            "東海國小交通導護志工",
+            "犁頭山觀音廟志工"
+          ],
+          "background": "依 2022 年選舉公報自述，曾任竹北市第八屆、第九屆東海里里長，並任東海社區發展協會理事長、竹北市守望相助協會理事。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：主動巡查里內各項公共建設與環境，積極達成「六要」服務（馬路要平、路燈要亮、水溝要通暢、環境要好、交通要順暢、治安要好）。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：關懷弱勢，協助辦理相關社會福利補助。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：東海社區活動中心爭取報廢重建已經通過，持續督促建案進度，期待早日完成重建工程。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：文中二建案新竹縣政府已進入籌劃階段，極力爭取東海學子就近就讀文中二。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：環保志工持續守護里內清潔。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "village": "竹北里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-zhubei-01",
+          "ballot_number": 1,
+          "name": "李麗惠",
+          "party": "無黨籍",
+          "gender": "女",
+          "birth_year": 1967,
+          "incumbent": true,
+          "education": [
+            "三和國小、大林國中、新榮高中畢"
+          ],
+          "experience": [
+            "現任里長",
+            "立石電機技術員",
+            "中正國小交通志工",
+            "中正國小家長會會長",
+            "仁愛國中交通志工",
+            "仁愛國中家長會常務委員",
+            "美滿志工協會理事長",
+            "竹北里守望相助隊創立",
+            "竹北社區發展協會理事",
+            "榮獲新竹縣模範勞工",
+            "新竹縣績優交通志工",
+            "衛生福利部「長照2.0服務資」研習活動完成具備長照2.0相關基本知能"
+          ],
+          "background": "依 2022 年選舉公報自述，2022 年登記時為竹北里現任里長，曾任中正國小家長會會長、美滿志工協會理事長，並自述創立竹北里守望相助隊。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：妥善規劃利用竹北里集會所，辦理里民社區團體活動。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：重現學童教育入學編制問題，關心學童上下課交通安全；爭取特殊家庭學童獎助學金，關懷照護單親弱勢家庭。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：延續竹北里環保志工團隊，落實竹北里道路養護服務；延續竹北里守望相助隊，加強治安巡邏。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：里內路平、燈亮、水溝通；全力爭取竹北里的建設及里民的福利，全職的里長。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-zhubei-02",
+          "ballot_number": 2,
+          "name": "黃盈凱",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1964,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "village": "竹仁里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-zhuren-01",
+          "ballot_number": 1,
+          "name": "劉堂隆",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1962,
+          "incumbent": true,
+          "education": [
+            "智光商工畢業"
+          ],
+          "experience": [
+            "竹仁里里長",
+            "竹仁社區發展協會理事長",
+            "竹仁國小家長委員",
+            "仁愛國中家長委員",
+            "新竹女中家長委員",
+            "劉姓宗親會",
+            "竹北市後備憲兵"
+          ],
+          "background": "依 2022 年選舉公報自述，曾任竹仁里里長、竹仁社區發展協會理事長，以及竹仁國小、仁愛國中、新竹女中家長委員。學歷為智光商工畢業。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：開放竹仁里集會所，辦理里民社區團體活動。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：爭取預算編列，關懷長者醫療，休閒服務工作。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：重視孩童教育（積極爭取國小附設幼稚園等相關政策）。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：配合政府政策，爭取豆子埔公園改建特色公園，增設停車場促進地方繁榮。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：積極照顧單親家庭，中低收入戶及弱勢家庭。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ],
+      "note": "同額競選：只有 1 人登記並完成抽籤，無對手。"
+    },
+    {
+      "village": "竹義里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-zhuyi-01",
+          "ballot_number": 1,
+          "name": "陳文得",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1966,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-zhuyi-02",
+          "ballot_number": 2,
+          "name": "林家緯",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1991,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "village": "泰和里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-taihe-01",
+          "ballot_number": 1,
+          "name": "廖鴻燕",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1959,
+          "incumbent": true,
+          "education": [
+            "竹北國小",
+            "竹北國中",
+            "忠信商工畢"
+          ],
+          "experience": [
+            "竹北飛利浦電子公司機械保養員",
+            "泰和社區理事長七.八屆理事長",
+            "社區守望相助隊五.六.八屆隊長",
+            "醫友會第2屆總幹事及第3.4屆理事",
+            "泰和土地公委員",
+            "竹北水利會小組長"
+          ],
+          "background": "依 2022 年選舉公報自述，曾任泰和社區第七、八屆理事長及社區守望相助隊隊長，並曾任竹北飛利浦電子公司機械保養員。學歷為忠信商工畢。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：里辦公室公布里內贊助、及補助款公開透明化。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：推動全里發揮愛心協助清寒收入戶生活補助；提高里民福利分享資源。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：規劃里民休閒空間，積極爭取經費全力建設泰和里。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：運用資源回收饋金，辦理各項文康活動及里內長者共餐、弱勢家庭救助、優秀學生獎助學金發放等。",
+              "source": 0
+            },
+            {
+              "text": "2022 年參選政見：定期消毒噴藥、水溝清理、路燈明亮、路平，和警察配合加強巡邏。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-taihe-02",
+          "ballot_number": 2,
+          "name": "廖芊涵",
+          "party": "無黨籍",
+          "gender": "女",
+          "birth_year": 1973,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "village": "新社里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-xinshe-01",
+          "ballot_number": 1,
+          "name": "陳明清",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1956,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-xinshe-02",
+          "ballot_number": 2,
+          "name": "范植雄",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1954,
+          "incumbent": true,
+          "education": [
+            "初中畢業"
+          ],
+          "experience": [
+            "新竹縣木工工會代表",
+            "新社社區理事，常務監事",
+            "建業鋁門窗行負責人",
+            "新社里第六、七、八、九屆里長",
+            "新社里清淨家園資源回收隊長"
+          ],
+          "background": "依 2022 年選舉公報自述，范植雄曾任新社里第六、七、八、九屆里長，並擔任新社里清淨家園資源回收隊長。公報另列經歷包括新竹縣木工工會代表、建業鋁門窗行負責人，學歷為初中畢業。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：守護新社里，服務不打烊。1.爭取多功能活動中心。(興建中，至3樓)。2.爭取全面架設監視器。3.爭取萬坪公園開發。(讓里民有個運動、休閒、娛樂場所)。4.爭取社北段、東華段開發。帶動地方繁榮。5.燈要亮、路要平、水溝要通。督促市公所徹底執行。6.清淨家園、節能減碳、資源回收，打造優質的居住環境。7.爭取里民權益，為里民發聲。當里民與市公所、縣政府的橋樑。8.十六年來的一貫精神，一人當選，夫妻2人服務，24小時不打烊。9.為弱勢團體、清寒家庭、兒少中低收入戶，爭取縣市補助。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "village": "聯興里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-lianxing-01",
+          "ballot_number": 1,
+          "name": "曾得盛",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1995,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-lianxing-02",
+          "ballot_number": 2,
+          "name": "傅永煥",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1963,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ],
+      "note": "現任里長陳威男（2022 年當選）本屆改選市民代表第三選區，未登記連任里長。"
+    },
+    {
+      "village": "麻園里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-mayuan-01",
+          "ballot_number": 1,
+          "name": "許榮生",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1951,
+          "incumbent": true,
+          "education": [
+            "省立桃園高級農工職業學校畢業"
+          ],
+          "experience": [
+            "竹北市麻園里第8、9屆里長",
+            "新竹縣政府公職(技士)37年退休",
+            "麻園天師府(公廟)創始人，並擔任第8、9屆主任委員"
+          ],
+          "background": "依 2022 年選舉公報自述，許榮生曾任竹北市麻園里第8、9屆里長，此前在新竹縣政府擔任技士 37 年後退休。公報另列其為麻園天師府創始人並擔任第8、9屆主任委員。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：1.執行公所交辦業務，道路平、水溝通、路燈亮。2.以擔任新竹縣政府公職37年行政經驗，全方位服務里民。3.每月定期配合社區義工，舉行里環境清潔打掃，美化麻園里。4.認真經營有感情、快樂的麻園，提升生活品質。5.努力爭取政府經費，建設麻園。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ],
+      "note": "同額競選：只有 1 人登記並完成抽籤，無對手。"
+    },
+    {
+      "village": "溪州里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-xizhou-01",
+          "ballot_number": 1,
+          "name": "彭仁墩",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1975,
+          "incumbent": true,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ],
+      "note": "同額競選：只有 1 人登記並完成抽籤，無對手。"
+    },
+    {
+      "village": "白地里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-baidi-01",
+          "ballot_number": 1,
+          "name": "陳相進",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1956,
+          "incumbent": true,
+          "education": [
+            "竹北國中畢業"
+          ],
+          "experience": [
+            "第六七八九屆里長"
+          ],
+          "background": "依 2022 年選舉公報自述，陳相進曾任第六、七、八、九屆里長，學歷為竹北國中畢業。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：1.生活躍進、路要平、溝要通、燈要亮 2.環保躍進，打造一個清淨、環保、優質的居住環境 3.監督白地里公園興建工程圓滿落成",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-baidi-02",
+          "ballot_number": 2,
+          "name": "戴錦泉",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1960,
+          "incumbent": false,
+          "education": [
+            "私立成功高職"
+          ],
+          "experience": [
+            "保險公司區經理兼任講師"
+          ],
+          "background": "依 2022 年選舉公報自述，戴錦泉曾任保險公司區經理兼任講師，學歷為私立成功高職。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：關懷里民，廉明里政 爭取建設，舉辦活動",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "village": "新港里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-xingang-01",
+          "ballot_number": 1,
+          "name": "戴章興",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1960,
+          "incumbent": true,
+          "education": [
+            "新港國小",
+            "竹北國中",
+            "義民中學",
+            "明新科技大學"
+          ],
+          "experience": [
+            "竹北市新港里第七、八、九屆里長",
+            "竹北市調解會委員",
+            "竹北市新港里港安主任委員",
+            "新竹縣竹北市水月休閒農業發展協會理事長"
+          ],
+          "background": "依 2022 年選舉公報自述，戴章興曾任竹北市新港里第七、八、九屆里長，並曾任竹北市調解會委員。公報另列其擔任新竹縣竹北市水月休閒農業發展協會理事長。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：一、堅持最初的理念。二、用心疼漁寮、永續發展、打造新港新家園。三、與社區共同爭取全體里民福利及建設。四、推動長者社區參與及人際互動的機會。五、善用竹北市休閒農業專區讓新港更亮麗。六、爭取及監督新港里牛埔溪出海口整治及環境美化工程。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ],
+      "note": "同額競選：只有 1 人登記並完成抽籤，無對手。"
+    },
+    {
+      "village": "大義里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-dayi-01",
+          "ballot_number": 1,
+          "name": "盧信忠",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1968,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-dayi-02",
+          "ballot_number": 2,
+          "name": "曾台安",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1983,
+          "incumbent": true,
+          "education": [
+            "鳳岡國小、國中，新竹高商會計事務科，大華科技大學觀光管理系畢。"
+          ],
+          "experience": [
+            "交通部觀光局僱員",
+            "新竹物流職員",
+            "新竹縣社區規劃師",
+            "貓兒錠報發行人",
+            "看見鳳岡攝影展策展人",
+            "反鳳岡納骨塔自救會發起人",
+            "竹北市農友協進會總幹事、理事",
+            "新竹縣鳳崎步道生態保育協會理事",
+            "新竹縣冰壺協會理事",
+            "鳳岡聯合巡守隊員",
+            "竹北市大義里現任里長"
+          ],
+          "background": "依 2022 年選舉公報自述，曾台安時任竹北市大義里里長，畢業於大華科技大學觀光管理系。公報所列經歷包括交通部觀光局僱員、新竹縣社區規劃師、貓兒錠報發行人，以及反鳳岡納骨塔自救會發起人。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "village": "崇義里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-chongyi-01",
+          "ballot_number": 1,
+          "name": "曾振堅",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1971,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-chongyi-02",
+          "ballot_number": 2,
+          "name": "曾華民",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1980,
+          "incumbent": true,
+          "education": [
+            "竹北市鳳岡國小畢業",
+            "竹北市鳳岡國中畢業"
+          ],
+          "experience": [
+            "清河營造有限公司",
+            "永浩有限公司",
+            "根基靈學佛道院總幹事"
+          ],
+          "background": "依 2022 年選舉公報自述，曾華民的經歷包括清河營造有限公司、永浩有限公司，以及根基靈學佛道院總幹事，學歷為竹北市鳳岡國中畢業。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：(一)全心全意為里民服務。(二)爭取經費，建設鄉里。(三)加強社區，環境保護",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "village": "大眉里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-damei-01",
+          "ballot_number": 1,
+          "name": "張清龍",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1965,
+          "incumbent": true,
+          "education": [
+            "新力高級職業學校畢"
+          ],
+          "experience": [
+            "長春人造樹脂股份有限公司",
+            "大眉社區發展協會第5.6屆理事長",
+            "大眉里第9屆里長"
+          ],
+          "background": "依 2022 年選舉公報自述，張清龍曾任大眉里第9屆里長，並曾任大眉社區發展協會第5、6屆理事長。公報另列其曾任職長春人造樹脂股份有限公司。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：本著初發心，用心服務關懷里民，全心投注地方發展 1.努力爭取經費編列、致力推動村里建設。2.持續溝通爭取改善里民出入交通安全設施。3.重視幼兒教育爭取開辦幼兒園、關懷據點關懷長者持續進行。4.爭取預算及規劃，打造大眉母親河-鳳山溪河堤。5.結合社區發展協會，推辦:藝文、休閒、成長………課程。6.持續爭取推動-鳳山溪河岸公園設置。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-damei-02",
+          "ballot_number": 2,
+          "name": "黃偵展",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1981,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "village": "尚義里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-shangyi-01",
+          "ballot_number": 1,
+          "name": "鄭凱丰",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1976,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-shangyi-02",
+          "ballot_number": 2,
+          "name": "曾福",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1963,
+          "incumbent": true,
+          "education": [
+            "鳳岡國小",
+            "鳳岡國中"
+          ],
+          "experience": [
+            "尚義里長七八九屆專職里長"
+          ],
+          "background": "依 2022 年選舉公報自述，曾福曾任尚義里第七、八、九屆專職里長，學歷為鳳岡國中。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：一、一張票，一世情。二、您建議，我來做。三、爭建設，爭福利。四、說得到，做得到。五、為尚義，我付出。六、有您支持，做的更好。七、為里民服務，是我的榮幸。八、做好環境把關，讓里民更健康。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "village": "十興里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-shixing-01",
+          "ballot_number": 1,
+          "name": "毛振福",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1963,
+          "incumbent": true,
+          "education": [
+            "高級工業學校畢業"
+          ],
+          "experience": [
+            "民靖精密工業股份有限公司廠長",
+            "新竹縣竹北市十興社區發展協會理事長",
+            "現任十興里里長"
+          ],
+          "background": "依 2022 年選舉公報自述，毛振福時任十興里里長，並曾任新竹縣竹北市十興社區發展協會理事長。公報另列其曾任民靖精密工業股份有限公司廠長，學歷為高級工業學校畢業。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：一、教育 1.積極督促勝利國民中學，建校工程如期順利完工，維護本里子弟受教權。2.持續十興國小交通導護志工團隊，給孩子一條安全的上學路。二、環境 1.爭取伍福宮旁停四勝利停車場，改建為立體停車塔，以舒緩里內停車位嚴重不足的困擾。2.維護本里道路與人行道舖面完整、路燈明亮。3.加強里內道路及空地死角環境清潔，定期疏通與消毒下水道，杜絕病媒蟲孳生。三、文化 1.活化十興里活動中心，安排長輩供餐、健身、延緩失能及夜間有氧瑜珈等課程活動，供鄉親們有一個休憩運動的空間，促進終身學習等多元功能。2.結合社區發展協會定期舉辦各項藝文、親子、戶外探索等活動，打造優質文化之十興里。四、行政 1.積極經營十興里專屬網站，建構里民共同參與、溝通、發想之平台。2.善用資源人脈，搭起十興里與各級政府單位之聯繫橋梁，以維本里最大利益。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ],
+      "note": "同額競選：只有 1 人登記並完成抽籤，無對手。"
+    },
+    {
+      "village": "新國里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-xinguo-01",
+          "ballot_number": 1,
+          "name": "彭德昌",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1956,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-xinguo-02",
+          "ballot_number": 2,
+          "name": "吳瑋倫",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1997,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ],
+      "note": "現任里長吳勝隆（2022 年當選）本屆改選市民代表第三選區，未登記里長。"
+    },
+    {
+      "village": "新庄里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-xinzhuang-01",
+          "ballot_number": 1,
+          "name": "余清輝",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1964,
+          "incumbent": true,
+          "education": [
+            "義民高級中學"
+          ],
+          "experience": [
+            "新寮街福德宮3、4、5屆主委",
+            "新庄里九鄰鄰長12年",
+            "第七、八屆社區常務監事",
+            "第六屆社區總幹事",
+            "第五屆社區監事",
+            "中國太極氣功十八式義務教練10年",
+            "豐田國小、竹仁國小、中正國小舞獅義務教練10年",
+            "慈德仁愛功德會委員"
+          ],
+          "background": "2022 年選舉公報自述學歷為義民高級中學。經歷包括新庄里九鄰鄰長 12 年、新寮街福德宮主委，以及社區發展協會常務監事、總幹事等職。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：積極爭取各項經費補助，里內各項設備，路要平、燈要亮、水溝要通、危險路段加強安全措施提供里民安居樂業環境；召集新庄里守望相助團隊成立巡守隊，加強維護里民安全；延續環保志工團隊、落實新庄里各處養護服務；積極爭取免費市民公車進來,以利里民方便進出；提倡文化休閒綠化活動，再造里民休閒空間提昇生活品質；以積極、盡責及熱忱心專職為里民服務，打造幸福鄉里；浮水橋一案，極力爭取路上橋面，改善南北岸交通問題；以里民樂活為優先、舞動生活新氣象。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-xinzhuang-02",
+          "ballot_number": 2,
+          "name": "麥森福",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1953,
+          "incumbent": false,
+          "education": [
+            "專科學校畢業"
+          ],
+          "experience": [
+            "奇陞電氣工程有限公司負責人",
+            "豐田國小第12任、19任家長會長",
+            "豐田派出所義警顧問，民防顧問",
+            "義消竹北中隊顧問",
+            "新庄社區發展協會理事長（2022 年公報所載）"
+          ],
+          "background": "2022 年選舉公報自述在新庄里出生、長大，從事水電工程多年後退休。經歷包括奇陞電氣工程有限公司負責人、豐田國小家長會長，2022 年時任新庄社區發展協會理事長。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：本人麥森福在新庄里出生、長大。從事水電工程已久，現已退休，兒子接棒更專職於水電工程。若順利當選定「親力親為」為里民服務爭取各項建設；豆子埔溪新庄段建造橋樑一座；里内豆子埔溪兩岸堤防道路改善；新寮橋至舊社大橋中間道路改善，以利交通順暢安全；用心:聽取鄉親各項建言。打拼:爭取政府經費補助。認真:做好里內各項建設。負責:監督執行完成任務。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "village": "北崙里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-beilun-01",
+          "ballot_number": 1,
+          "name": "劉福登",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1944,
+          "incumbent": false,
+          "education": [
+            "陸軍工兵學校",
+            "臺灣省立屏東農業專科學校結業"
+          ],
+          "experience": [
+            "榮獲內政部107年特優里長",
+            "北崙社區發展協會理事長（2022 年公報所載）",
+            "大行化學產業工會常務理事",
+            "新竹縣劉姓宗親會理事",
+            "新竹縣政府縣政顧問"
+          ],
+          "background": "2022 年選舉公報自述學歷為陸軍工兵學校、臺灣省立屏東農業專科學校結業。經歷列有「榮獲內政部107年特優里長」，2022 年時任北崙社區發展協會理事長、新竹縣政府縣政顧問。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：爭取經費改建並拓寬老舊排水溝，以解決積水之苦；建議道路增設號誌和定時維護斑馬線以利行車安全；定期整治豆子埔溪，提供更優質的社區景致與環境；里內道路平坦、路燈會亮、水溝會通；穩健踏實、全心全力全職為里民服務；一步一腳印，秉持尊老愛幼、里民優先的精神服務鄉里；絕不以包工程為私利，把里務撥亂反正。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-beilun-02",
+          "ballot_number": 2,
+          "name": "洪燕卿",
+          "party": "無黨籍",
+          "gender": "女",
+          "birth_year": 1964,
+          "incumbent": true,
+          "education": [
+            "明新科技大學土木工程與環境資源管理系研究所"
+          ],
+          "experience": [
+            "竹北市公所環境清潔競賽連續三年優等",
+            "市區道路養護管理及人行環境無障礙考評榮獲街廓考評地方人士貢獻獎",
+            "獅子會300G1區新竹市會長及救濟飢餓委員會新竹市主席",
+            "中華民國青溪婦女協會監事",
+            "明新科技大學校友總會輔導推廣委員會副主任委員",
+            "國際園藝治療師認證講師",
+            "現代婦女志工協會理事長"
+          ],
+          "background": "2022 年選舉公報自述學歷為明新科技大學土木工程與環境資源管理系研究所。經歷列有竹北市公所環境清潔競賽連續三年優等、獅子會300G1區新竹市會長、現代婦女志工協會理事長等。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：北崙里辦公處即將於10月20日完工(社會福利大樓)；強化街道公園，清潔提升，(配合公所及警察局)；掃除路霸，提升里民居住環境品質；路見不平，馬上鋪平，水溝定期清淤，掃除油垢；爭取經費、為里辦公處，社區完善配套環境設施；爭取角落監視器；落實環保志工隊為社區環境維護再提升。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "village": "新崙里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-xinlun-01",
+          "ballot_number": 1,
+          "name": "林一玲",
+          "party": "無黨籍",
+          "gender": "女",
+          "birth_year": 1972,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-xinlun-02",
+          "ballot_number": 2,
+          "name": "劉旦貴",
+          "party": "無黨籍",
+          "gender": "女",
+          "birth_year": 1974,
+          "incumbent": true,
+          "education": [
+            "元培科技大學"
+          ],
+          "experience": [
+            "現任 竹北市新崙里 里長",
+            "竹北市新崙社區發展協會 理事",
+            "竹北市蕃仔園福德文化發展協會 副理事長",
+            "竹北市新崙里蕃仔園福德宮管理委員會副主委",
+            "新竹縣各級學校家長協會常務理事",
+            "竹北市農會新崙家政班 班長",
+            "竹北國小志工 家長會顧問",
+            "竹北市敦親睦鄰 會員",
+            "歷任竹北國小家長會會長"
+          ],
+          "background": "2022 年選舉公報自述學歷為元培科技大學，當時為新崙里現任里長。經歷另包括新崙社區發展協會理事、蕃仔園福德宮管理委員會副主委、歷任竹北國小家長會會長等。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：持續與縣府及市公所一同推動豆子埔溪整治工程及沿岸步道之綠美化工程；提供各項社會資源，協助關懷弱勢家庭及長者、推動親子及市集活動；持續爭取里內狹小巷道開通，疏緩交通及居住環境的安危；持續與社區發展協會，推動各項休閒文康及關懷照顧系列活動；里民服務-持續經營平台,達到與里民溝通聯絡管道及公告事項，推展里內休閒活動；維護道路與人行道路面平整、路燈明亮、水溝暢通，持平改善綠化美化公園周邊。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "village": "福德里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-fude-01",
+          "ballot_number": 1,
+          "name": "黃淑珠",
+          "party": "無黨籍",
+          "gender": "女",
+          "birth_year": 1965,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-fude-02",
+          "ballot_number": 2,
+          "name": "曾文忠",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1955,
+          "incumbent": true,
+          "education": [
+            "彰化縣伸港國小畢業",
+            "彰化縣伸港國中肄業"
+          ],
+          "experience": [
+            "福德里第8屆里長，第9屆里長",
+            "社區2屆理事長",
+            "曾姓宗親會理事長",
+            "擱再來海產負責人",
+            "金翔亮遊覽公司",
+            "曾任三民所顧問",
+            "佳佳桌球隊顧問"
+          ],
+          "background": "2022 年選舉公報自述曾任福德里第 8、9 屆里長及社區理事長兩屆。其他經歷包括曾姓宗親會理事長、擱再來海產負責人。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：馬路要平，路燈要亮，水溝要清；建設福德里，創造幸福里；您的信任，我的責任。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "village": "東興里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-dongxing-01",
+          "ballot_number": 1,
+          "name": "謝淑晶",
+          "party": "無黨籍",
+          "gender": "女",
+          "birth_year": 1982,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-dongxing-02",
+          "ballot_number": 2,
+          "name": "龍春廣",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1964,
+          "incumbent": true,
+          "education": [
+            "六家國小畢",
+            "六家國中畢",
+            "內思高工畢",
+            "親民技術學院二專畢",
+            "亞太技術學院二技畢"
+          ],
+          "experience": [
+            "現任東興里里長",
+            "竹北市東興社區發展協會理事長",
+            "竹北市榮興宮志願服務協會理事長",
+            "竹北市東興巡守協會理事長",
+            "竹北市義警協會理事",
+            "高鐵義警分隊副分隊長"
+          ],
+          "background": "2022 年選舉公報自述當時為東興里現任里長，並任東興社區發展協會理事長、東興巡守協會理事長。學歷為亞太技術學院二技畢業。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：持續以東興里辦公處LINE群組與Facebook(竹北市東興家族大小事)為平台，提供網路即時服務；服務專線24H不打烊，即時回應里民各項問題與意見；主動巡視里內各項公共設施與環境，積極達成「六要」服務：馬路要平、路燈要亮、水溝要通、環境要好、交通要順（解決嘉興路、東興路十字路口交通壅塞狀況）、治安要好；廣納民意，連結各鄰長里政經驗，共同推動鄰里建設，以落實里政工作；爭取東興幼兒園、東興集會所興建案；爭取里內增設停車場，以解決停車位不足問題；配合社區發展辦理多項研習講座課程，營造教學相長的學習環境；主動協助里民解決爭議，爭取里民最佳權益，扮演里民與政府溝通的橋樑；爭取六家高中通學步道標線劃設。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "village": "北興里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-beixing-01",
+          "ballot_number": 1,
+          "name": "田慶順",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1965,
+          "incumbent": true,
+          "education": [
+            "竹北市中正國民小學",
+            "竹北市六家國民中學",
+            "義民高級中學"
+          ],
+          "experience": [
+            "竹北市德興宮副主委",
+            "新竹縣田姓宗親會總幹事",
+            "竹北市北興社區發展協會理事長 總幹事 安興國小交通志工",
+            "竹北市北興里里長"
+          ],
+          "background": "2022 年選舉公報自述經歷包括竹北市北興里里長、北興社區發展協會理事長、德興宮副主委。學歷為義民高級中學。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：建請新竹縣政府，縣治三期，汙水管早日完成接管；建請竹北市公所，在公十六號公園，完成特色公園建置；竹北市北興里集會所早日興建完成；里內的行人道逐年爭取經費改善；莊敬北路從勝利八街一段至十興路一段路口，東、西側人行道路燈，早日完成；里內的馬路要平，水溝要通，路燈要亮。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-beixing-02",
+          "ballot_number": 2,
+          "name": "林奕汝",
+          "party": "無黨籍",
+          "gender": "女",
+          "birth_year": 1986,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-beixing-03",
+          "ballot_number": 3,
+          "name": "孫德超",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1981,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "village": "興安里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-xingan-01",
+          "ballot_number": 1,
+          "name": "彭垣均",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1968,
+          "incumbent": true,
+          "education": [
+            "明新科技大學服務事業管理研究所碩士畢業"
+          ],
+          "experience": [
+            "青果合作社新竹分社業務課長",
+            "興安里里長"
+          ],
+          "background": "2022 年選舉公報自述學歷為明新科技大學服務事業管理研究所碩士，經歷為青果合作社新竹分社業務課長、興安里里長。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：落實路平、燈亮、溝通，確保用路人行的權益；全力爭取里内合適的地點設置里民休憩場所；爭取本里内公園增加符合民眾需求的各項運動設施及綠美化工程，提升里民舒適的生活環境；配合政府政策定期邀請志工朋友整理環境、維護市容。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ],
+      "note": "同額競選：只有 1 人登記並完成抽籤，無對手。"
+    },
+    {
+      "village": "文化里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-wenhua-01",
+          "ballot_number": 1,
+          "name": "謝智全",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1984,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-wenhua-02",
+          "ballot_number": 2,
+          "name": "謝棋鈞",
+          "party": "無黨籍",
+          "gender": "女",
+          "birth_year": 1965,
+          "incumbent": true,
+          "education": [
+            "中華大學企管系管理學碩士",
+            "中華大學企業管理學系學士",
+            "國立關西高中",
+            "六家國中",
+            "竹仁國小"
+          ],
+          "experience": [
+            "現任里長",
+            "文化福德宮監察委員",
+            "文化社區發展協會監事",
+            "竹北市光明商圈常務理事",
+            "新竹縣警察志工協會理事",
+            "新竹縣宗教民俗聯誼協會理事長",
+            "新竹縣紅十字會水上救生教練"
+          ],
+          "background": "2022 年選舉公報自述當時為文化里現任里長，學歷為中華大學企管系管理學碩士。經歷另包括竹北市光明商圈常務理事、新竹縣宗教民俗聯誼協會理事長等。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2022 年參選政見：持續積極爭取「里民集會所」與「社區活動中心」的興建，提供里民學習成長、課後照顧資源、豐富生活內涵；落實燈亮、路平、水溝通、環境衛生，保障里民生活品質；督促文田路及仁愛國中「安全通學步道」改建，盡早完成；爭取豆子埔溪綠美化、親水環境相關改造，提供里民環境教育與運動休閒；持續關懷老弱族群，提供相關資源整合與協助；積極提升文化里生活圈品質。配合政府、公所，爭取地方建設與里民福利；善用文化資源，推廣多元藝文活動，打造幸福文化里。",
+              "source": 0
+            }
+          ],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "village": "中崙里",
+      "seats": 1,
+      "candidates": [
+        {
+          "id": "vc-zhonglun-01",
+          "ballot_number": 1,
+          "name": "曾秋月",
+          "party": "無黨籍",
+          "gender": "女",
+          "birth_year": 1963,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        },
+        {
+          "id": "vc-zhonglun-02",
+          "ballot_number": 2,
+          "name": "李金對",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1973,
+          "incumbent": true,
+          "education": [
+            "大華科技大學五專部機械工程"
+          ],
+          "experience": [
+            "現任 竹北市中崙里 里長",
+            "竹北市中崙社區發展協會 理事",
+            "新竹縣健康家庭文化協會 總幹事",
+            "瑞士商系統整合開發部 經理",
+            "德國真空系統商設備規劃師"
+          ],
+          "background": "2022 年選舉公報自述當時為中崙里現任里長，學歷為大華科技大學五專部機械工程。經歷另包括中崙社區發展協會理事、外商系統整合開發部經理。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "新竹縣選舉委員會：竹北市第十屆里長選舉選舉公報（2022）",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年地方公職人員選舉候選人姓名號次抽籤結果（附件5 村里長，2026-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/896537f4-4c49-471a-a834-b8f9cec1b3bf.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：115年村里長選舉候選人登記冊（8/31–9/4，含性別、出生年月日、推薦政黨）",
+              "url": "https://web.cec.gov.tw/api/file/bb22bdcd-a71e-4906-8070-e90ccd6159aa.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111年第22屆（竹北市第10屆）村（里）長選舉當選人名單公告（2022-12-02）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-14"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

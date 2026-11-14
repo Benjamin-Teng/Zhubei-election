@@ -1,0 +1,1845 @@
+{
+  "office_id": "representative",
+  "office_name": "竹北市民代表（新竹縣竹北市民代表會第11屆代表）",
+  "who_votes": "在竹北市有選舉權的市民，依戶籍所在的里投該里所屬選舉區（共4區，見 villages.json）。依新竹縣選舉委員會公告，竹北市未設平地原住民選舉區，具原住民身分者同樣投戶籍所在里的選舉區。",
+  "official_list_source": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+  "researched_at": "2026-11-14",
+  "seat_allocation_source": "https://web.cec.gov.tw/api/file/95e4447d-91f2-4ce3-bfeb-b3e14ece1702",
+  "total_seats": 21,
+  "districts": [
+    {
+      "district": "第一選區",
+      "district_note": "包括鹿場里、東平里、中興里、隘口里、東海里、十興里、東興里、北興里、興安里、文化里，共10里；應選10名，其中應有婦女保障名額2名。",
+      "villages": [
+        "鹿場里",
+        "東平里",
+        "中興里",
+        "隘口里",
+        "東海里",
+        "十興里",
+        "東興里",
+        "北興里",
+        "興安里",
+        "文化里"
+      ],
+      "seats": 10,
+      "women_reserved_seats": 2,
+      "candidates": [
+        {
+          "id": "rep-1-01",
+          "ballot_number": 1,
+          "name": "楊士學",
+          "party": "民主進步黨",
+          "gender": "男",
+          "birth_year": 1998,
+          "incumbent": false,
+          "education": [
+            "清華大學碩士"
+          ],
+          "experience": [
+            "工業技術研究院（曾任職）"
+          ],
+          "background": "民主進步黨推薦的竹北市民代表參選人，與陳禹同、林祖誼、謝育豪由民進黨新竹縣長參選人鄭朝方組成「竹北F4」。報導指出他曾服務工研院、具清大碩士學歷，主打「產業創新力」。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2026年10月針對竹北市清潔車改色與相關預算遭質疑一事表示，預算已經市民代表會跨黨派審查通過，車輛配有反光條與警示燈具，安全不只看車身顏色，並批評質疑者造謠。",
+              "source": 4
+            }
+          ],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "聯合報 2026-10-09 鄭朝方領軍4戰將組「竹北F4」推跨領域人才拚市民代表席次",
+              "url": "https://udn.com/news/story/124652/9805143",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "中時新聞網 2026-10-09 鄭朝方組「竹北F4」！4名市民代表參選人亮相 專業背景曝光",
+              "url": "https://www.chinatimes.com/realtimenews/20261009002325-260407",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "聯合報 2026-10-25 竹北清潔車遭質疑安全、預算 楊士學怒轟：造謠抹黑打擊清潔隊員士氣",
+              "url": "https://udn.com/news/story/7324/9836192",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；學歷、經歷出自 source 2、3（媒體轉述，未見本人完整學經歷）。"
+        },
+        {
+          "id": "rep-1-02",
+          "ballot_number": 2,
+          "name": "洪瑞瑾",
+          "party": "小民參政歐巴桑聯盟",
+          "gender": "女",
+          "birth_year": 1982,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": "2022年曾參選竹北市民代表第一選舉區，未當選（當時登記為無黨籍）。本次由小民參政歐巴桑聯盟推薦。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "中央選舉委員會選舉資料庫 111年鄉鎮市民代表選舉 新竹縣候選人得票明細",
+              "url": "https://db.cec.gov.tw/static/elections/data/tickets/ELC/R2/R1/ca0467b0c2645f87fa3589a51eccc221/A/10_004_00_000_0000.json",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；2022年參選紀錄見 source 2。Bing 新聞以「洪瑞瑾 竹北」「洪瑞瑾 市民代表」搜尋無相關報導。"
+        },
+        {
+          "id": "rep-1-03",
+          "ballot_number": 3,
+          "name": "余政達",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1976,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；Bing 新聞以「余政達 竹北」「余政達 市民代表」搜尋無相關報導。研究代理回報 2014 年選舉公報可能有同名者資料，但該 PDF 讀取失敗，未收錄。"
+        },
+        {
+          "id": "rep-1-04",
+          "ballot_number": 4,
+          "name": "林瑞德",
+          "party": "台灣民眾黨",
+          "gender": "男",
+          "birth_year": 1995,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": "台灣民眾黨提名的竹北市民代表參選人，2026年4月與李心然、劉文軒一同獲民眾黨新竹黨部宣布提名。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "壹蘋新聞網 2026-04-17 劍指2026！竹北隊集結 他預告白營將派「最強人選」",
+              "url": "https://news.nextapple.com/politics/20260417/119242F892B11E5B84BFB7D81559010E",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；提名經過見 source 2；查無學經歷。"
+        },
+        {
+          "id": "rep-1-05",
+          "ballot_number": 5,
+          "name": "林祖誼",
+          "party": "民主進步黨",
+          "gender": "男",
+          "birth_year": 1993,
+          "incumbent": false,
+          "education": [],
+          "experience": [
+            "鄭朝方團隊秘書（曾任）"
+          ],
+          "background": "民主進步黨推薦的竹北市民代表參選人，「竹北F4」成員之一。報導指出他曾任鄭朝方團隊秘書，投入公共事務近8年，主打「公共事務力」。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "聯合報 2026-10-09 鄭朝方領軍4戰將組「竹北F4」推跨領域人才拚市民代表席次",
+              "url": "https://udn.com/news/story/124652/9805143",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "中時新聞網 2026-10-09 鄭朝方組「竹北F4」！4名市民代表參選人亮相 專業背景曝光",
+              "url": "https://www.chinatimes.com/realtimenews/20261009002325-260407",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "自由時報 2026-09-23 捍衛宗教自由！林祖誼力挺鄭朝方：勿將神明捲入選舉口水",
+              "url": "https://news.ltn.com.tw/news/HsinchuCounty/breakingnews/5583518",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；經歷出自 source 2、3。source 4 為其對選舉中宗教議題的發言，屬政治表態，未列入民生欄位。"
+        },
+        {
+          "id": "rep-1-06",
+          "ballot_number": 6,
+          "name": "范光禮",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1969,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": "2022年曾參選竹北市民代表第一選舉區，未當選。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "中央選舉委員會選舉資料庫 111年鄉鎮市民代表選舉 新竹縣候選人得票明細",
+              "url": "https://db.cec.gov.tw/static/elections/data/tickets/ELC/R2/R1/ca0467b0c2645f87fa3589a51eccc221/A/10_004_00_000_0000.json",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；2022年參選紀錄見 source 2。Bing 新聞搜尋無相關報導。"
+        },
+        {
+          "id": "rep-1-07",
+          "ballot_number": 7,
+          "name": "林祺烜",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1960,
+          "incumbent": true,
+          "education": [
+            "六家國小",
+            "竹北國中",
+            "大華工專"
+          ],
+          "experience": [
+            "竹北市民代表（現任第10屆；代表會網站列其曾任第3至9屆）",
+            "桃園金飛達國際旅行社",
+            "小林超市",
+            "國泰人壽保險公司營業員"
+          ],
+          "background": "現任竹北市民代表，2022年以無黨籍身分於第一選舉區當選。代表會網站自述深耕六家地區30餘年。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "代表會網站刊載之政見（未標年份）：爭取提高3至6歲幼兒教育補助、協助各里社區營造與文化傳承、監督公所並爭取六家地區建設經費。",
+              "source": 3
+            }
+          ],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "中央選舉委員會選舉資料庫 111年鄉鎮市民代表選舉 新竹縣候選人得票明細",
+              "url": "https://db.cec.gov.tw/static/elections/data/tickets/ELC/R2/R1/ca0467b0c2645f87fa3589a51eccc221/A/10_004_00_000_0000.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣竹北市民代表會 現任代表 林祺烜",
+              "url": "https://www.zhubei.gov.tw/iframdeputyview.php?menu=1409&typeid=1437&deputy_id=12",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；現任身分依 2022 年當選紀錄與代表會現任代表名單比對。學經歷出自 source 3（代表會網站，本人提供）；當選紀錄見 source 2。新聞搜尋無相關報導。"
+        },
+        {
+          "id": "rep-1-08",
+          "ballot_number": 8,
+          "name": "黃明雄",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1970,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；Bing 新聞以「姓名 竹北」「姓名 市民代表」搜尋無相關報導；2022 年竹北市民代表選舉也無此人參選紀錄。"
+        },
+        {
+          "id": "rep-1-09",
+          "ballot_number": 9,
+          "name": "李心然",
+          "party": "台灣民眾黨",
+          "gender": "女",
+          "birth_year": 1995,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": "台灣民眾黨提名的竹北市民代表參選人，2026年4月獲民眾黨新竹黨部宣布提名。2026年11月與陳冠宇、黃郁雯、張益豪共組「還我乾淨竹縣聯盟」，就竹北市政提出質疑。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "壹蘋新聞網 2026-04-17 劍指2026！竹北隊集結 他預告白營將派「最強人選」",
+              "url": "https://news.nextapple.com/politics/20260417/119242F892B11E5B84BFB7D81559010E",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "壹蘋新聞網 2026-11-06 與4選將共組「還我乾淨竹縣聯盟」 張益豪：與鄭朝方沒什麼私人恩怨",
+              "url": "https://news.nextapple.com/politics/20261106/ED576006883E8C3F2D1636C81048E23B",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；見 source 2、3；查無學經歷與政見。"
+        },
+        {
+          "id": "rep-1-10",
+          "ballot_number": 10,
+          "name": "林維洲",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1960,
+          "incumbent": true,
+          "education": [
+            "東海國小",
+            "六家國中",
+            "山崎高工",
+            "南亞工專"
+          ],
+          "experience": [
+            "竹北市民代表（現任第10屆；並曾任第7、8、9屆）",
+            "東海里第五屆里長",
+            "東海社區發展協會第二、三屆理事長"
+          ],
+          "background": "現任竹北市民代表，2022年由中國國民黨推薦於第一選舉區當選；本次登記未經政黨推薦。曾任東海里長。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "代表會網站刊載之政見（未標年份）：改建經國大橋、推動東區市場新建、頭前溪腹地公園增設寵物公園與停車場、重建東海社區集會所與六家圖書分館、增加生育獎勵與幼兒補助、協助璞玉計畫徵收。",
+              "source": 3
+            }
+          ],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "中央選舉委員會選舉資料庫 111年鄉鎮市民代表選舉 新竹縣候選人得票明細",
+              "url": "https://db.cec.gov.tw/static/elections/data/tickets/ELC/R2/R1/ca0467b0c2645f87fa3589a51eccc221/A/10_004_00_000_0000.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣竹北市民代表會 現任代表 林維洲",
+              "url": "https://www.zhubei.gov.tw/iframdeputyview.php?menu=1409&typeid=1437&deputy_id=10",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；現任身分依 2022 年當選紀錄與代表會現任代表名單比對。學經歷出自 source 3；2022 年推薦政黨見 source 2。新聞搜尋無相關報導。"
+        },
+        {
+          "id": "rep-1-11",
+          "ballot_number": 11,
+          "name": "張美珠",
+          "party": "無黨籍",
+          "gender": "女",
+          "birth_year": 1958,
+          "incumbent": true,
+          "education": [
+            "中華大學企業管理碩士"
+          ],
+          "experience": [
+            "竹北市民代表第8、9、10屆",
+            "大中華愛心協會理事長",
+            "小叮噹科學主題樂園環境教育專案經理",
+            "東元企業社執行長"
+          ],
+          "background": "現任竹北市民代表，2022年以無黨籍身分於第一選舉區當選，為第8、9、10屆代表。2023年獲新竹縣環保局推薦，獲表揚為全國績優環保志工。",
+          "achievements": [
+            {
+              "text": "2017年加入新竹縣環境教育志工隊，報導指其參與88場環境政策宣導、觸及5,307人次，2023年獲全國環保志（義）工群英會表揚。",
+              "source": 4
+            }
+          ],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "代表會網站刊載之政見（未標年份）：推動增設台元科技段交流道、六家第一公墓公園化、爭取寵物友善公園與兒童室內遊戲場、美化豆子埔溪、爭取興安里與文化里社區活動中心。",
+              "source": 3
+            }
+          ],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "中央選舉委員會選舉資料庫 111年鄉鎮市民代表選舉 新竹縣候選人得票明細",
+              "url": "https://db.cec.gov.tw/static/elections/data/tickets/ELC/R2/R1/ca0467b0c2645f87fa3589a51eccc221/A/10_004_00_000_0000.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣竹北市民代表會 現任代表 張美珠",
+              "url": "https://www.zhubei.gov.tw/iframdeputyview.php?menu=1409&typeid=1437&deputy_id=8",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "中華日報 2023-11-08 張美珠宣導環境教育2年 榮獲全國績優環境教育志工",
+              "url": "https://www.cdns.com.tw/articles/904521",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；現任身分依 2022 年當選紀錄與代表會現任代表名單比對。學經歷出自 source 3，環境教育專案經理出自 source 4；代表會網站學歷寫「企管管理碩士」，此處依文意寫為企業管理碩士。"
+        },
+        {
+          "id": "rep-1-12",
+          "ballot_number": 12,
+          "name": "陳禹同",
+          "party": "民主進步黨",
+          "gender": "男",
+          "birth_year": 1986,
+          "incumbent": true,
+          "education": [
+            "國立交通大學機械工程學系學士",
+            "國立交通大學機械工程研究所碩士"
+          ],
+          "experience": [
+            "竹北市民代表（現任第10屆）",
+            "Black7 創辦人",
+            "工業技術研究院機械所工程師"
+          ],
+          "background": "現任竹北市民代表，2022年以無黨籍身分於第一選舉區當選，本次由民主進步黨推薦，為「竹北F4」成員。2026年5月曾宣布參選新竹縣議員（竹北東區），民進黨初選未獲提名，後登記競選連任市民代表。",
+          "achievements": [
+            {
+              "text": "報導指出其爭取將傳統鈉燈路燈汰換為LED燈，高鐵新竹站周邊嘉豐五路等路段有461盞列入首波，2024年9月已完工近300盞。",
+              "source": 5
+            }
+          ],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "代表會網站刊載之政見（未標年份）：智慧路燈與特色光廊、提升公托與公幼量能、早療資源、市政會議直播與紀錄透明化、公寓大廈管委會輔導。",
+              "source": 3
+            },
+            {
+              "text": "2026年10月竹北「自由之花」景觀燈造價遭質疑時表示，該燈每桿有15個光源，預算已經市民代表會跨黨派審查通過，不應與單燈頭路燈比價。",
+              "source": 6
+            }
+          ],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "中央選舉委員會選舉資料庫 111年鄉鎮市民代表選舉 新竹縣候選人得票明細",
+              "url": "https://db.cec.gov.tw/static/elections/data/tickets/ELC/R2/R1/ca0467b0c2645f87fa3589a51eccc221/A/10_004_00_000_0000.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣竹北市民代表會 現任代表 陳禹同",
+              "url": "https://www.zhubei.gov.tw/iframdeputyview.php?menu=1409&typeid=1437&deputy_id=13",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "聯合報 2026-10-09 鄭朝方領軍4戰將組「竹北F4」推跨領域人才拚市民代表席次",
+              "url": "https://udn.com/news/story/124652/9805143",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "自由時報 2024-09-23 竹北市代陳禹同爭取高鐵站區周邊路燈更新 響應節能減碳",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/4808456",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "自由時報 2026-10-22 竹北「自由之花」遭控天價 陳禹同批藍營抹黑：跨黨派審查通過",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5614942",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "聯合報 2026-05-04 竹北市代陳禹同宣布選竹縣議員 東區競爭激烈民進黨擬提4席",
+              "url": "https://udn.com/news/story/124652/9480587",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "聯合報 2026-06-04 民進黨擴大布局竹北戰區 議員初選這4人出線拚地方版圖",
+              "url": "https://udn.com/news/story/124652/9545369",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；現任身分依 2022 年當選紀錄與代表會現任代表名單比對。學經歷出自 source 3；宣布參選縣議員見 source 7，初選結果見 source 8（研究代理讀取）。"
+        },
+        {
+          "id": "rep-1-13",
+          "ballot_number": 13,
+          "name": "彭竣志",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1986,
+          "incumbent": true,
+          "education": [
+            "國立清華大學（原國立新竹教育大學）"
+          ],
+          "experience": [
+            "竹北市民代表（現任第10屆）",
+            "中華民國自由車國家代表隊",
+            "新竹縣博愛國小、埔和國小體育教師",
+            "新竹縣競技運動協會理事",
+            "台元健身中心健身教練"
+          ],
+          "background": "現任竹北市民代表，2022年以無黨籍身分於第一選舉區當選。曾為自由車國家代表隊選手、國小體育教師。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "代表會網站刊載之政見（未標年份）：重建公所與代表會溝通、育兒津貼加碼與公托公幼據點、公園安全健檢、推動運動主題公園與綜合球場、YouBike 路線安全、長照結合各里資源。",
+              "source": 3
+            },
+            {
+              "text": "2022年參選期間主張世興空品區保留綠地、轉型為運動森林公園，認為竹北更需要親近自然的綠地。",
+              "source": 4
+            },
+            {
+              "text": "2022年參選期間與鹿場里里長會勘閒置空地，建議閒置公有地增設球類運動場地，並關心東興圳後續工程。",
+              "source": 5
+            }
+          ],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "中央選舉委員會選舉資料庫 111年鄉鎮市民代表選舉 新竹縣候選人得票明細",
+              "url": "https://db.cec.gov.tw/static/elections/data/tickets/ELC/R2/R1/ca0467b0c2645f87fa3589a51eccc221/A/10_004_00_000_0000.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣竹北市民代表會 現任代表 彭竣志",
+              "url": "https://www.zhubei.gov.tw/iframdeputyview.php?menu=1409&typeid=1437&deputy_id=6",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "爽爆新聞網（蕃新聞轉載）2022-08-25 竹北市民代表參選人彭竣志 要公園不要巨蛋 主張世興空品區落實民意",
+              "url": "https://n.yam.com/Article/20220825841985",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "爽爆新聞網（蕃新聞轉載）2022-07-08 竹北市民代表參選人彭竣志 建議閒置公有地轉運動休閒 關心東興圳後續工程",
+              "url": "https://n.yam.com/Article/20220708311189",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；現任身分依 2022 年當選紀錄與代表會現任代表名單比對。學經歷出自 source 3。新聞搜尋僅一則標題含「竹北民代」但內文與本人無關的報導，未收。"
+        },
+        {
+          "id": "rep-1-14",
+          "ballot_number": 14,
+          "name": "黃郁雯",
+          "party": "中國國民黨",
+          "gender": "女",
+          "birth_year": 1984,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": "中國國民黨推薦的竹北市民代表參選人。2026年11月與陳冠宇、張益豪、李心然共組「還我乾淨竹縣聯盟」，就竹北市政提出質疑。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2026年8月在臉書表示竹北教育建設追不上人口成長，要求盡速核定增校增班經費、增加優質高中職名額，並改善跨區通學交通。",
+              "source": 2
+            },
+            {
+              "text": "2026年10月質疑竹北「自由之花」景觀燈單盞含施工約22.3萬元造價過高，要求公開工程明細（媒體轉述本人臉書）。",
+              "source": 4
+            },
+            {
+              "text": "2026年7月批評竹北公共建設與公車站牌出現市長題字落款，主張移除個人題字（媒體轉述本人臉書）。",
+              "source": 5
+            }
+          ],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "中天新聞網 2026-08-15 教育、交通首長同框鄭朝方 黃郁雯批：別只拚政治、忘了竹北孩子",
+              "url": "https://ctinews.com/news/items/BexXKAJPab",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "壹蘋新聞網 2026-11-06 與4選將共組「還我乾淨竹縣聯盟」 張益豪：與鄭朝方沒什麼私人恩怨",
+              "url": "https://news.nextapple.com/politics/20261106/ED576006883E8C3F2D1636C81048E23B",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "品觀點（鉅亨號）2026-10-22 竹北「自由之花」一盞22.3萬！黃郁雯轟鄭朝方只顧美學、缺乏智慧城市思維",
+              "url": "https://hao.cnyes.com/post/273841",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "品觀點（鉅亨號）2026-07-20 公共建設題字無所不在？黃郁雯轟鄭朝方打造「朝鮮美學」",
+              "url": "https://hao.cnyes.com/post/259983",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；查無學經歷。source 4、5 為品觀點刊於鉅亨號的文章，非主流媒體，內容轉述本人臉書。"
+        },
+        {
+          "id": "rep-1-15",
+          "ballot_number": 15,
+          "name": "范揚翰",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1992,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；Bing 新聞以「姓名 竹北」「姓名 市民代表」搜尋無相關報導；2022 年竹北市民代表選舉也無此人參選紀錄。"
+        },
+        {
+          "id": "rep-1-16",
+          "ballot_number": 16,
+          "name": "曾玉菱",
+          "party": "民主進步黨",
+          "gender": "女",
+          "birth_year": 1990,
+          "incumbent": true,
+          "education": [
+            "鳳岡國小",
+            "鳳岡國中",
+            "新竹女中",
+            "世新大學公共關係暨廣告學系學士"
+          ],
+          "experience": [
+            "竹北市民代表（現任第10屆）",
+            "新竹縣鳳崎步道生態保育協會副總幹事",
+            "彈心劇團副團長",
+            "新竹婦女劇團演教員",
+            "承影傳播有限公司節目助理"
+          ],
+          "background": "現任竹北市民代表，2022年由民主進步黨推薦於第一選舉區當選，本次續由民進黨推薦。代表會網站自述為竹北年輕媽媽，關心親子教育與人本交通。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "代表會網站刊載之政見（未標年份）：通學步道改善、早療照護、制定公園維管辦法、竹北東西平衡發展、預算公開透明與會議直播、母語友善環境。",
+              "source": 3
+            },
+            {
+              "text": "2022年參選期間質疑竹北水月橋相關預算效益，表示要嚴格監督預算。",
+              "source": 4
+            }
+          ],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "中央選舉委員會選舉資料庫 111年鄉鎮市民代表選舉 新竹縣候選人得票明細",
+              "url": "https://db.cec.gov.tw/static/elections/data/tickets/ELC/R2/R1/ca0467b0c2645f87fa3589a51eccc221/A/10_004_00_000_0000.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣竹北市民代表會 現任代表 曾玉菱",
+              "url": "https://www.zhubei.gov.tw/iframdeputyview.php?menu=1409&typeid=1437&deputy_id=9",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "NOWnews 2022-11-13 竹北水月橋爭議多 市代候選人曾玉菱挖出一堆問題",
+              "url": "https://www.nownews.com/news/5969946",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；現任身分依 2022 年當選紀錄與代表會現任代表名單比對。學經歷出自 source 3。"
+        },
+        {
+          "id": "rep-1-17",
+          "ballot_number": 17,
+          "name": "鄭鈞鴻",
+          "party": "中國國民黨",
+          "gender": "男",
+          "birth_year": 1986,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": "中國國民黨推薦的竹北市民代表參選人。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [
+            {
+              "title": "公祭簽到簿貼競選貼紙",
+              "date": "2026-10",
+              "summary": "報導指出其助理代表前往靈堂致意時，在簽到簿貼上「懇求搶救」競選貼紙，家屬表達不滿，網友貼文後引發討論。",
+              "status": "媒體報導，未進司法程序",
+              "candidate_response": "拍片向家屬鞠躬道歉，表示本人未到場、由助理代為致意，並說「我沒有把助理教好」。",
+              "source": 2
+            }
+          ],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "聯合報 2026-10-21 公祭簽到簿貼「懇求搶救」、家屬怒「我阿嬤就是沒搶救回來」他道歉了",
+              "url": "https://udn.com/news/story/7324/9828125",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；新聞搜尋僅見此事件報導；查無學經歷與政見。"
+        },
+        {
+          "id": "rep-1-18",
+          "ballot_number": 18,
+          "name": "崔紀梅 Umi Sayta",
+          "party": "無黨籍",
+          "gender": "女",
+          "birth_year": 1975,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；Bing 新聞以「姓名 竹北」「姓名 市民代表」搜尋無相關報導；2022 年竹北市民代表選舉也無此人參選紀錄。"
+        },
+        {
+          "id": "rep-1-19",
+          "ballot_number": 19,
+          "name": "彭俊烟",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1971,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；Bing 新聞以「姓名 竹北」「姓名 市民代表」搜尋無相關報導；2022 年竹北市民代表選舉也無此人參選紀錄。"
+        },
+        {
+          "id": "rep-1-20",
+          "ballot_number": 20,
+          "name": "張益豪",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1992,
+          "incumbent": false,
+          "education": [],
+          "experience": [
+            "竹北市公所機要秘書（曾任）",
+            "鄭朝方團隊隨行秘書（2018年起）"
+          ],
+          "background": "竹北市民代表參選人（登記未經政黨推薦）。報導指出他自2018年起擔任鄭朝方隨行秘書，2022年鄭朝方當選竹北市長後進入市公所擔任機要秘書，本人表示後來主動辭職。2026年10月起公開指稱鄭朝方家人介入市政，鄭朝方團隊表示不回應；11月與陳冠宇、黃郁雯、李心然共組「還我乾淨竹縣聯盟」。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "風傳媒 2026-10-30 前機要秘書張益豪揭竹北市政內幕 控鄭朝方家族介入決策、工程人事疑點重重",
+              "url": "https://www.storm.mg/article/11177199",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "壹蘋新聞網 2026-11-06 與4選將共組「還我乾淨竹縣聯盟」 張益豪：與鄭朝方沒什麼私人恩怨",
+              "url": "https://news.nextapple.com/politics/20261106/ED576006883E8C3F2D1636C81048E23B",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；經歷出自 source 2。source 2 提到地方流傳涉及他本人的傳聞，屬未經查證的傳言，依中立原則不列入爭議；本人已發聲明否認。"
+        }
+      ]
+    },
+    {
+      "district": "第二選區",
+      "district_note": "包括斗崙里、竹北里、竹仁里、竹義里、泰和里、北崙里、新崙里、福德里、中崙里，共9里；應選7名，其中應有婦女保障名額1名。",
+      "villages": [
+        "斗崙里",
+        "竹北里",
+        "竹仁里",
+        "竹義里",
+        "泰和里",
+        "北崙里",
+        "新崙里",
+        "福德里",
+        "中崙里"
+      ],
+      "seats": 7,
+      "women_reserved_seats": 1,
+      "candidates": [
+        {
+          "id": "rep-2-01",
+          "ballot_number": 1,
+          "name": "陳冠宇",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1990,
+          "incumbent": false,
+          "education": [],
+          "experience": [
+            "民主進步黨立法院黨團幕僚（曾任）",
+            "綠黨召集人（曾任）"
+          ],
+          "background": "無黨籍竹北市民代表參選人。報導指出他曾任綠黨召集人、民進黨立法院黨團幕僚。2026年11月與黃郁雯、張益豪、李心然共組「還我乾淨竹縣聯盟」。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2026年11月批評竹北5個里的活動中心工程在現任市長任內累計流標29次（北興里集會所流標10次），要求說明原因與改善措施；市公所與鄭朝方團隊表示暫無回應。",
+              "source": 2
+            }
+          ],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "聯合報 2026-11-09 陳冠宇批鄭朝方署名文青小物發不停「宣傳造神」 活動中心卻流標29次",
+              "url": "https://udn.com/news/story/7324/9866773",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "壹蘋新聞網 2026-11-06 與4選將共組「還我乾淨竹縣聯盟」 張益豪：與鄭朝方沒什麼私人恩怨",
+              "url": "https://news.nextapple.com/politics/20261106/ED576006883E8C3F2D1636C81048E23B",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；經歷出自 source 2。"
+        },
+        {
+          "id": "rep-2-02",
+          "ballot_number": 2,
+          "name": "徐水鐘",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1954,
+          "incumbent": true,
+          "education": [
+            "義民高商"
+          ],
+          "experience": [
+            "竹北市民代表（現任第10屆）",
+            "竹北市新崙巡守隊大隊長",
+            "竹北市新崙社區發展協會理事長",
+            "竹北市農會信用部主任（曾任）",
+            "竹北市農會代表"
+          ],
+          "background": "現任竹北市民代表，2022年以無黨籍身分於第二選舉區當選。長期參與新崙地區社區、巡守與宗親事務，曾任竹北市農會信用部主任。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "代表會網站刊載之政見（未標年份）：活化豆子埔溪、各里設巷弄長照站、重要路口建置監控、增設非營利與準公共化幼兒園。",
+              "source": 3
+            }
+          ],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "中央選舉委員會選舉資料庫 111年鄉鎮市民代表選舉 新竹縣候選人得票明細",
+              "url": "https://db.cec.gov.tw/static/elections/data/tickets/ELC/R2/R1/ca0467b0c2645f87fa3589a51eccc221/A/10_004_00_000_0000.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣竹北市民代表會 現任代表 徐水鐘",
+              "url": "https://www.zhubei.gov.tw/iframdeputyview.php?menu=1409&typeid=1438&deputy_id=18",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；現任身分依 2022 年當選紀錄與代表會現任代表名單比對。學經歷出自 source 3。新聞搜尋無相關報導。"
+        },
+        {
+          "id": "rep-2-03",
+          "ballot_number": 3,
+          "name": "曾敬維",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1995,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；Bing 新聞以「姓名 竹北」「姓名 市民代表」搜尋無相關報導；2022 年竹北市民代表選舉也無此人參選紀錄。"
+        },
+        {
+          "id": "rep-2-04",
+          "ballot_number": 4,
+          "name": "莊雅綺",
+          "party": "中國國民黨",
+          "gender": "女",
+          "birth_year": 1970,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；Bing 新聞以「姓名 竹北」「姓名 市民代表」搜尋無相關報導；2022 年竹北市民代表選舉也無此人參選紀錄。"
+        },
+        {
+          "id": "rep-2-05",
+          "ballot_number": 5,
+          "name": "江宥德",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1981,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": "2022年曾參選竹北市民代表第二選舉區，未當選。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "中央選舉委員會選舉資料庫 111年鄉鎮市民代表選舉 新竹縣候選人得票明細",
+              "url": "https://db.cec.gov.tw/static/elections/data/tickets/ELC/R2/R1/ca0467b0c2645f87fa3589a51eccc221/A/10_004_00_000_0000.json",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；2022年參選紀錄見 source 2。新聞搜尋無相關報導。"
+        },
+        {
+          "id": "rep-2-06",
+          "ballot_number": 6,
+          "name": "曾宗彬",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1983,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；Bing 新聞以「姓名 竹北」「姓名 市民代表」搜尋無相關報導；2022 年竹北市民代表選舉也無此人參選紀錄。"
+        },
+        {
+          "id": "rep-2-07",
+          "ballot_number": 7,
+          "name": "何宜芯",
+          "party": "無黨籍",
+          "gender": "女",
+          "birth_year": 1987,
+          "incumbent": true,
+          "education": [
+            "國立清華大學公共政策與管理碩士",
+            "國立高雄科技大學（原國立高雄應用科技大學）",
+            "國立新竹高商"
+          ],
+          "experience": [
+            "竹北市民代表第9、10屆",
+            "有成精密股份有限公司",
+            "正文科技股份有限公司"
+          ],
+          "background": "現任竹北市民代表，2022年以無黨籍身分於第二選舉區當選，為第9、10屆代表。",
+          "achievements": [
+            {
+              "text": "代表會網站自述任內成果：2019年提案爭取滑板公園、於竹北市場建置食物銀行、爭取縣政十三路與竹仁國小周邊綠底通學步道、竹仁里集會所設置AED。",
+              "source": 3
+            }
+          ],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "代表會網站刊載之政見（未標年份）：推動親子課程與親職講座、公園身障遊具與無障礙空間、安全步行空間、公園公廁周邊監視器、公所業務電子化、停車場車牌辨識。",
+              "source": 3
+            }
+          ],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "中央選舉委員會選舉資料庫 111年鄉鎮市民代表選舉 新竹縣候選人得票明細",
+              "url": "https://db.cec.gov.tw/static/elections/data/tickets/ELC/R2/R1/ca0467b0c2645f87fa3589a51eccc221/A/10_004_00_000_0000.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣竹北市民代表會 現任代表 何宜芯",
+              "url": "https://www.zhubei.gov.tw/iframdeputyview.php?menu=1409&typeid=1438&deputy_id=14",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；現任身分依 2022 年當選紀錄與代表會現任代表名單比對。學經歷與成果出自 source 3（本人自述）。"
+        },
+        {
+          "id": "rep-2-08",
+          "ballot_number": 8,
+          "name": "鄭建村",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1961,
+          "incumbent": true,
+          "education": [
+            "六家國小",
+            "六家國中",
+            "竹南高中"
+          ],
+          "experience": [
+            "竹北市民代表（現任第10屆；並曾任第9屆）",
+            "竹北市斗崙里長（連任六屆）",
+            "竹北市里長聯誼會會長",
+            "寶聖電器公司廠長"
+          ],
+          "background": "現任竹北市民代表，2022年以無黨籍身分於第二選舉區當選。曾連任六屆斗崙里長，代表會網站列其曾獲全國及全縣特優里長。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "代表會網站刊載之政見（未標年份）：人行道更新與學校周邊通學安全、公園廣場多功能活化、加強監視系統、提高幼兒教育補助與老人健保及假牙補助、增設 YouBike 站點與公有停車場、電動車充電樁。",
+              "source": 3
+            }
+          ],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "中央選舉委員會選舉資料庫 111年鄉鎮市民代表選舉 新竹縣候選人得票明細",
+              "url": "https://db.cec.gov.tw/static/elections/data/tickets/ELC/R2/R1/ca0467b0c2645f87fa3589a51eccc221/A/10_004_00_000_0000.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣竹北市民代表會 現任代表 鄭建村",
+              "url": "https://www.zhubei.gov.tw/iframdeputyview.php?menu=1409&typeid=1438&deputy_id=15",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；現任身分依 2022 年當選紀錄與代表會現任代表名單比對。學經歷出自 source 3。新聞搜尋無相關報導。"
+        },
+        {
+          "id": "rep-2-09",
+          "ballot_number": 9,
+          "name": "劉文軒",
+          "party": "台灣民眾黨",
+          "gender": "男",
+          "birth_year": 1997,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": "台灣民眾黨提名的竹北市民代表參選人，2026年4月與李心然、林瑞德一同獲民眾黨新竹黨部宣布提名。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "壹蘋新聞網 2026-04-17 劍指2026！竹北隊集結 他預告白營將派「最強人選」",
+              "url": "https://news.nextapple.com/politics/20260417/119242F892B11E5B84BFB7D81559010E",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；見 source 2；查無學經歷與政見。"
+        },
+        {
+          "id": "rep-2-10",
+          "ballot_number": 10,
+          "name": "許育綸",
+          "party": "時代力量",
+          "gender": "男",
+          "birth_year": 1984,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": "時代力量推薦的竹北市民代表參選人。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "2026年626豪雨後指出淹水熱點都在淹水潛勢範圍內，建議設置滯洪池、地下水撲滿、透水柏油路與透水側溝，提升竹北的耐淹能力。",
+              "source": 2
+            }
+          ],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "自由時報 2026-07-03 626豪雨竹縣多處傳災情 許育綸籲淹水熱點加速災後重建",
+              "url": "https://news.ltn.com.tw/news/life/breakingnews/5493063",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；新聞搜尋另見 PeoPo 公民新聞 2015 年標籤頁稱其為「新科竹北市民代表」，但中選會 2022 年資料庫無其參選紀錄，2014 年資料未查證，未收入經歷。"
+        },
+        {
+          "id": "rep-2-11",
+          "ballot_number": 11,
+          "name": "林啟賢",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1965,
+          "incumbent": true,
+          "education": [
+            "豐田國小",
+            "竹北國中",
+            "治平中學",
+            "中華大學工業管理學系",
+            "明新科技大學電機碩士"
+          ],
+          "experience": [
+            "竹北市民代表會主席（第7、8、9、10屆）",
+            "竹北市民代表（第6至10屆）",
+            "竹北天后宮主任委員",
+            "竹北國際獅子會會長",
+            "竹北國際青年商會會長",
+            "竹北溪洲社區發展協會理事長"
+          ],
+          "background": "現任竹北市民代表會主席，2022年由中國國民黨推薦於第二選舉區當選；本次登記未經政黨推薦。2026年6月曾爭取國民黨竹北市長提名，後登記競選連任市民代表。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "代表會網站刊載之政見（未標年份）：推動竹北、竹義、福德、泰和、新崙、竹仁等老舊社區更新、重要路口監視系統、改善老舊校舍、推動綠能光電城市。",
+              "source": 3
+            }
+          ],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "中央選舉委員會選舉資料庫 111年鄉鎮市民代表選舉 新竹縣候選人得票明細",
+              "url": "https://db.cec.gov.tw/static/elections/data/tickets/ELC/R2/R1/ca0467b0c2645f87fa3589a51eccc221/A/10_004_00_000_0000.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣竹北市民代表會 現任代表 林啟賢",
+              "url": "https://www.zhubei.gov.tw/iframdeputyview.php?menu=1409&typeid=1438&deputy_id=2",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "聯合報 2026-11-02 藍綠白力挺林啟賢惹議？竹縣黨部今查「違反輔選紀律」未指名道姓",
+              "url": "https://udn.com/news/story/124652/9851397",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "民眾日報 2026-06-09 藍營四雄力搏竹北市長提名 林啟賢：拿回竹北、重返執政、再創榮耀！",
+              "url": "https://mknews.com.tw/2026/06/957743/",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；現任身分依 2022 年當選紀錄與代表會現任代表名單比對。學經歷出自 source 3；爭取市長提名見 source 5（該文帶有新聞稿性質）。source 4 報導國民黨縣黨部宣布調查黨員違反輔選紀律，未指名對象，故不列為本人爭議；本人表示未接獲通知。"
+        },
+        {
+          "id": "rep-2-12",
+          "ballot_number": 12,
+          "name": "曾美琴",
+          "party": "中國國民黨",
+          "gender": "女",
+          "birth_year": 1951,
+          "incumbent": true,
+          "education": [
+            "竹仁國小",
+            "省立新竹高商",
+            "台北市立商專",
+            "中國科技大學碩士"
+          ],
+          "experience": [
+            "竹北市民代表第2、3、8、9、10屆",
+            "新竹縣登山協會理事長",
+            "新竹縣美麗久久竹北情協會理事長",
+            "海峽兩岸客家文經交流協會理事"
+          ],
+          "background": "現任竹北市民代表，2022年及本次均由中國國民黨推薦，於第二選舉區參選。代表會網站列其曾任第2、3、8、9、10屆市民代表。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "代表會網站刊載之政見（未標年份）：推動豆子埔溪、鳳山溪河川整治與美化，爭取竹義里社崙街增設吊橋通往新崙里。",
+              "source": 3
+            }
+          ],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "中央選舉委員會選舉資料庫 111年鄉鎮市民代表選舉 新竹縣候選人得票明細",
+              "url": "https://db.cec.gov.tw/static/elections/data/tickets/ELC/R2/R1/ca0467b0c2645f87fa3589a51eccc221/A/10_004_00_000_0000.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣竹北市民代表會 現任代表 曾美琴",
+              "url": "https://www.zhubei.gov.tw/iframdeputyview.php?menu=1409&typeid=1438&deputy_id=17",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；現任身分依 2022 年當選紀錄與代表會現任代表名單比對。學經歷出自 source 3。新聞搜尋無相關報導。"
+        },
+        {
+          "id": "rep-2-13",
+          "ballot_number": 13,
+          "name": "謝育豪",
+          "party": "民主進步黨",
+          "gender": "男",
+          "birth_year": 1992,
+          "incumbent": false,
+          "education": [
+            "陽明交通大學碩士"
+          ],
+          "experience": [
+            "醫療外商（曾任職）",
+            "返鄉創業"
+          ],
+          "background": "民主進步黨推薦的竹北市民代表參選人，「竹北F4」成員之一。報導指出他曾任職醫療外商後返鄉創業，從兩個孩子父親的角度關注教育與家庭需求。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "聯合報 2026-10-09 鄭朝方領軍4戰將組「竹北F4」推跨領域人才拚市民代表席次",
+              "url": "https://udn.com/news/story/124652/9805143",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "中時新聞網 2026-10-09 鄭朝方組「竹北F4」！4名市民代表參選人亮相 專業背景曝光",
+              "url": "https://www.chinatimes.com/realtimenews/20261009002325-260407",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；學經歷出自 source 2、3（媒體轉述）。"
+        }
+      ]
+    },
+    {
+      "district": "第三選區",
+      "district_note": "包括新社里、聯興里、新國里，共3里；應選2名，其中應有婦女保障名額0名。",
+      "villages": [
+        "新社里",
+        "聯興里",
+        "新國里"
+      ],
+      "seats": 2,
+      "women_reserved_seats": 0,
+      "candidates": [
+        {
+          "id": "rep-3-01",
+          "ballot_number": 1,
+          "name": "陳威男",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1986,
+          "incumbent": false,
+          "education": [
+            "莊敬高職"
+          ],
+          "experience": [
+            "竹北市聯興里里長（現任，2022 年當選）",
+            "暢立企業（2022 年公報自述 8 年）"
+          ],
+          "background": "現任聯興里長（2022 年當選），本屆登記參選市民代表第三選區。2022 年選舉公報列其經歷為聯興里長 8 年、暢立企業 8 年。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 111年竹北市第十屆里長選舉選舉公報",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會：111 年竹北市村里長當選人名單（第 10 頁，聯興里）",
+              "url": "https://web.cec.gov.tw/api/file/caeec2e9-7da9-4327-98d5-cbb0f09156de.pdf",
+              "accessed": "2026-11-15"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；學經歷出自 source 2；2022 年當選聯興里長見 source 3（出生日期與中選會資料相符）。"
+        },
+        {
+          "id": "rep-3-02",
+          "ballot_number": 2,
+          "name": "葉信輝",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1974,
+          "incumbent": true,
+          "education": [
+            "新社國小",
+            "竹北國中",
+            "磐石中學",
+            "聯合工商專科學校",
+            "中華大學管理學院碩士"
+          ],
+          "experience": [
+            "竹北市民代表會副主席（現任）",
+            "竹北市民代表第8、9、10屆",
+            "新竹縣各級學校家長協會理事長",
+            "新社國小家長會長（103至106學年）",
+            "華永勝工程行"
+          ],
+          "background": "現任竹北市民代表會副主席，2022年由中國國民黨推薦於第三選舉區當選；本次登記未經政黨推薦。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "代表會網站刊載之政見（未標年份）：整合西區健走步道與豆子埔溪沿線休閒道、閒置公共造產活化為停車場與公園、推動社區藝文活動、追蹤幼兒園入學與班數。",
+              "source": 3
+            }
+          ],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "中央選舉委員會選舉資料庫 111年鄉鎮市民代表選舉 新竹縣候選人得票明細",
+              "url": "https://db.cec.gov.tw/static/elections/data/tickets/ELC/R2/R1/ca0467b0c2645f87fa3589a51eccc221/A/10_004_00_000_0000.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣竹北市民代表會 現任代表 葉信輝",
+              "url": "https://www.zhubei.gov.tw/iframdeputyview.php?menu=1409&typeid=1439&deputy_id=4",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；現任身分依 2022 年當選紀錄與代表會現任代表名單比對。學經歷出自 source 3。新聞搜尋僅見代表會例行報導。"
+        },
+        {
+          "id": "rep-3-03",
+          "ballot_number": 3,
+          "name": "吳勝隆",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1970,
+          "incumbent": false,
+          "education": [
+            "新社國小",
+            "竹北國中",
+            "明新科技大學（專科畢）"
+          ],
+          "experience": [
+            "竹北市新國里里長（現任）",
+            "新社保安宮主任委員（2022年公報載為現任）",
+            "廣成生命禮儀負責人（2022年公報）"
+          ],
+          "background": "竹北市民代表參選人（登記未經政黨推薦），報導指出他現任新國里里長。2026年11月成立聯合競選總部時，民眾黨竹北市長候選人邱臣遠與國民黨籍副縣長陳見賢到場。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 111年竹北市第十屆里長選舉選舉公報",
+              "url": "https://eebulletin.cec.gov.tw/111/08%E6%96%B0%E7%AB%B9%E7%B8%A3/05%E6%9D%91%E9%87%8C%E9%95%B7/%E3%80%90%E7%AB%B9%E5%8C%97%E5%B8%82%E3%80%91%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "自由時報 2026-11-07 國民黨新竹縣分裂 副縣長陳見賢表態「全力支持邱臣遠」",
+              "url": "https://news.ltn.com.tw/news/politics/breakingnews/5632528",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；學經歷出自 source 2（2022年里長選舉公報，出生年與 source 0 相符）；現任里長身分另見 source 3。查無 2026 年政見。"
+        }
+      ]
+    },
+    {
+      "district": "第四選區",
+      "district_note": "包括麻園里、溪州里、白地里、新港里、大義里、崇義里、大眉里、尚義里、新庄里，共9里；應選2名，其中應有婦女保障名額0名。",
+      "villages": [
+        "麻園里",
+        "溪州里",
+        "白地里",
+        "新港里",
+        "大義里",
+        "崇義里",
+        "大眉里",
+        "尚義里",
+        "新庄里"
+      ],
+      "seats": 2,
+      "women_reserved_seats": 0,
+      "candidates": [
+        {
+          "id": "rep-4-01",
+          "ballot_number": 1,
+          "name": "蔡文苑",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1974,
+          "incumbent": true,
+          "education": [
+            "中華大學科技管理學系學士"
+          ],
+          "experience": [
+            "竹北市民代表第5、9、10屆",
+            "竹北市第6、7屆調解委員",
+            "竹北市性騷擾調查委員會調查委員",
+            "竹北警分局民防中隊中隊長"
+          ],
+          "background": "現任竹北市民代表，2022年以無黨籍身分於第四選舉區當選，曾任第5、9、10屆代表。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [
+            {
+              "text": "代表會網站刊載之政見（未標年份）：爭取未有自來水管與天然氣管線地區的管線埋設、豐田與鳳岡區親子公園及監視系統、規劃西濱新月沙灘遊憩。",
+              "source": 3
+            },
+            {
+              "text": "2021年7月新冠疫情三級警戒期間，報導指其捐贈便當與飲料給新竹地區醫院醫護人員。",
+              "source": 4
+            }
+          ],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "中央選舉委員會選舉資料庫 111年鄉鎮市民代表選舉 新竹縣候選人得票明細",
+              "url": "https://db.cec.gov.tw/static/elections/data/tickets/ELC/R2/R1/ca0467b0c2645f87fa3589a51eccc221/A/10_004_00_000_0000.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣竹北市民代表會 現任代表 蔡文苑",
+              "url": "https://www.zhubei.gov.tw/iframdeputyview.php?menu=1409&typeid=1440&deputy_id=21",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "中華日報 2021-07-10 竹北市民代表蔡文苑感謝醫護捐贈便當及飲料",
+              "url": "https://www.cdns.com.tw/articles/426849",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；現任身分依 2022 年當選紀錄與代表會現任代表名單比對。學經歷出自 source 3。"
+        },
+        {
+          "id": "rep-4-02",
+          "ballot_number": 2,
+          "name": "黃莉",
+          "party": "無黨籍",
+          "gender": "女",
+          "birth_year": 1977,
+          "incumbent": false,
+          "education": [],
+          "experience": [],
+          "background": null,
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；Bing 新聞以「黃莉 竹北」「黃莉 市民代表」搜尋，結果均為同名歌手（台東籍）報導，與本候選人無關，未收；2022 年竹北市民代表選舉無此人參選紀錄。"
+        },
+        {
+          "id": "rep-4-03",
+          "ballot_number": 3,
+          "name": "曾祐宸",
+          "party": "無黨籍",
+          "gender": "男",
+          "birth_year": 1985,
+          "incumbent": true,
+          "education": [],
+          "experience": [
+            "竹北市民代表（現任第10屆）"
+          ],
+          "background": "現任竹北市民代表，2022年以無黨籍身分於第四選舉區當選。",
+          "achievements": [],
+          "platform": [],
+          "controversies": [],
+          "livelihood": [],
+          "sources": [
+            {
+              "title": "中央選舉委員會 115年地方公職人員選舉專區 候選人資料（鄉鎮市民代表，新竹縣）",
+              "url": "https://info.cec.gov.tw/vote2026/static/json/cand/R/10004.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣選舉委員會 115年新竹縣鄉鎮市民代表選舉候選人號次抽籤結果（115-10-27）",
+              "url": "https://web.cec.gov.tw/api/file/e30ea230-638c-48b7-acaa-7f729b7f262c",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "中央選舉委員會選舉資料庫 111年鄉鎮市民代表選舉 新竹縣候選人得票明細",
+              "url": "https://db.cec.gov.tw/static/elections/data/tickets/ELC/R2/R1/ca0467b0c2645f87fa3589a51eccc221/A/10_004_00_000_0000.json",
+              "accessed": "2026-11-14"
+            },
+            {
+              "title": "新竹縣竹北市民代表會 現任代表 曾祐宸",
+              "url": "https://www.zhubei.gov.tw/iframdeputyview.php?menu=1409&typeid=1440&deputy_id=5",
+              "accessed": "2026-11-14"
+            }
+          ],
+          "notes": "號次、姓名、政黨、性別、出生年出自 source 0、1；現任身分依 2022 年當選紀錄與代表會現任代表名單比對。代表會網站個人頁未填學經歷與政見（source 3）；2022 年資料庫僅列學歷層級「專科」，未收入。新聞搜尋無相關報導。"
+        }
+      ]
+    }
+  ]
+}

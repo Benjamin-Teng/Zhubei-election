@@ -1,0 +1,92 @@
+/* 五種視覺共用的結構層：重設、可及性、版面骨架。顏色與字型交給各視覺。 */
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; overflow-x: hidden; }
+img, svg { max-width: 100%; }
+h1, h2, h3, p, ul, ol, figure { margin-top: 0; }
+button, input, select { font: inherit; color: inherit; }
+a { color: inherit; }
+
+.skip { position: absolute; left: -9999px; top: 0; z-index: 100; padding: .5rem 1rem; }
+.skip:focus { left: 1rem; }
+:focus-visible { outline: 3px solid var(--focus, #1a5fd0); outline-offset: 2px; }
+.site-main:focus { outline: none; }
+
+.site-head { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .75rem 1.5rem; }
+.brand { text-decoration: none; }
+.site-nav { display: flex; flex-wrap: wrap; gap: .25rem 1rem; }
+.site-nav a { text-decoration: none; }
+
+.site-main { display: block; }
+.toolbar { display: flex; flex-wrap: wrap; gap: .75rem 1rem; align-items: end; margin-bottom: 1.5rem; }
+.group-pick, .toggle { display: inline-flex; gap: .5rem; align-items: center; }
+select { max-width: 100%; }
+
+.crumbs { display: flex; flex-wrap: wrap; gap: .25rem .5rem; margin-bottom: 1rem; font-size: .875rem; }
+.crumbs > * + *::before { content: '／'; margin-right: .5rem; opacity: .5; }
+
+.btn { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: .5rem 1.1rem; cursor: pointer; text-decoration: none; border: 0; }
+
+.profile-form { display: flex; flex-wrap: wrap; gap: 1rem 2rem; align-items: center; margin-bottom: 1.25rem; }
+.profile-form > label { display: inline-flex; gap: .5rem; align-items: center; }
+.profile-form fieldset { border: 0; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: .25rem 1rem; align-items: center; }
+.profile-form legend { float: left; margin-right: .75rem; padding: 0; }
+.radio { display: inline-flex; gap: .3rem; align-items: center; min-height: 44px; }
+
+.my-ballot { list-style: none; padding: 0; margin: 0; }
+.ballot-row { display: grid; grid-template-columns: minmax(7rem, 10rem) 1fr; gap: 1rem; align-items: baseline; }
+.ballot-group small { display: block; }
+
+.cand-card { display: grid; text-decoration: none; }
+.cand-name { font-size: 1.25rem; }
+.cand-meta { display: flex; flex-wrap: wrap; gap: .25rem .5rem; align-items: center; }
+.cand-stats { display: flex; flex-wrap: wrap; gap: .25rem 1rem; }
+.cand-bg { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+
+.cand-head { display: flex; gap: 1.25rem; align-items: flex-start; margin-bottom: 1rem; }
+.sec-nav { display: flex; flex-wrap: wrap; gap: .25rem 1rem; margin-bottom: 2rem; position: sticky; top: 0; z-index: 5; }
+.c-sec { scroll-margin-top: 4rem; margin-bottom: 2.5rem; }
+.bg-cols { display: grid; grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr)); gap: 1.5rem; }
+.ref { font-size: .75em; vertical-align: super; line-height: 0; text-decoration: none; }
+.src-list { word-break: break-all; }
+.src-list small { margin-left: .5rem; }
+
+.matrix-wrap { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+.matrix { border-collapse: collapse; min-width: calc(8rem + var(--cols) * 13rem); width: 100%; }
+.matrix th, .matrix td { vertical-align: top; text-align: left; }
+.matrix ul { margin: 0; padding-left: 1.1em; }
+.matrix thead th small { display: block; font-weight: normal; }
+
+.quiz-options { display: grid; gap: .75rem; margin: 1.5rem 0; }
+.q-opt { display: grid; grid-template-columns: auto 1fr; gap: .9rem; align-items: start; cursor: pointer; }
+.q-opt input { position: absolute; opacity: 0; width: 1px; height: 1px; }
+.q-mark { width: 1.75rem; height: 1.75rem; flex: none; position: relative; }
+.q-opt input:focus-visible + .q-mark { outline: 3px solid var(--focus, #1a5fd0); outline-offset: 2px; }
+.q-kind { display: inline-block; margin-left: .5rem; font-size: .75rem; }
+.quiz-nav, .quiz-actions { display: flex; flex-wrap: wrap; gap: .75rem; justify-content: space-between; margin-top: 1.5rem; }
+.quiz-progress { position: relative; }
+.quiz-progress i { display: block; height: 6px; margin-top: .4rem; background: linear-gradient(to right, currentColor calc(var(--p) * 100%), transparent 0); }
+
+.results { display: grid; gap: 2rem; }
+.score-bars { list-style: none; padding: 0; margin: 1rem 0; display: grid; gap: .5rem; }
+.score-bars li { display: grid; grid-template-columns: minmax(6rem, 9rem) 1fr 4.5rem; gap: .75rem; align-items: center; }
+.sb-bar { display: block; height: .75rem; position: relative; }
+.sb-bar i { position: absolute; inset: 0 auto 0 0; width: calc(var(--v) * 100%); }
+.sb-val { text-align: right; font-variant-numeric: tabular-nums; }
+.sb-val small { display: block; font-size: .7rem; opacity: .7; }
+.reveal-q ul { list-style: none; padding: 0; }
+.reveal-q li { padding: .4rem 0; }
+.rv-who { display: inline-block; min-width: 4.5rem; margin-right: .75rem; font-weight: 700; }
+
+.foot-links { display: flex; flex-wrap: wrap; gap: .25rem 1.25rem; }
+.muted { opacity: .72; }
+
+@media (max-width: 640px) {
+  .ballot-row { grid-template-columns: 1fr; gap: .1rem; }
+  .score-bars li { grid-template-columns: 1fr 3.5rem; }
+  .score-bars .sb-bar { grid-column: 1 / -1; grid-row: 2; }
+  .cand-head { flex-direction: column; gap: .5rem; }
+}
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after { animation-duration: .001ms !important; animation-iteration-count: 1 !important; transition-duration: .001ms !important; }
+}

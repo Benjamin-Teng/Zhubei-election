@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>竹北選舉功課表</title>
+<meta name="description" content="2026 竹北市民可投的職務、候選人經歷政見與匿名政見盲測。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=LXGW+WenKai+TC:wght@300;400;700&family=Noto+Sans+TC:wght@400;500;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Zhi+Mang+Xing&text=%E7%AB%B9%E5%8C%97&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/base.css">
+<link rel="stylesheet" href="assets/site.css">
+</head>
+<body>
+<div id="app"></div>
+<script>
+window.THEME = {
+  id: 'windcity',
+  brand: '竹北選舉功課表',
+  brandHTML: '竹北選舉功課表<small>風城的十一月</small>',
+  hero({ days, total, esc }) {
+    const lines = [
+      'M-20 60 C 160 20, 320 100, 520 50 S 860 30, 1220 70',
+      'M-20 120 C 200 90, 380 150, 600 110 S 940 100, 1220 130',
+      'M-20 180 C 140 160, 420 210, 640 170 S 980 160, 1220 195',
+      'M-20 240 C 240 215, 460 265, 700 230 S 1000 225, 1220 250',
+    ];
+    return `<section class="hero">
+      <svg class="hero-wind" viewBox="0 0 1200 300" preserveAspectRatio="none" aria-hidden="true">
+        ${lines.map((d, i) => `<path d="${d}" style="--i:${i}"/>`).join('')}
+      </svg>
+      <div class="hero-text">
+        <h1 class="couplet" aria-label="代馬依北風，竹印擇賢能"><span>代馬依<em class="bamboo">北</em>風</span><span><em class="bamboo">竹</em>印擇賢能</span></h1>
+        <p class="hero-cite">上句出自《韓詩外傳》「代馬依北風，飛鳥揚故巢」，北地的馬依戀北風，說的是不忘本。</p>
+        <p class="hero-sub">11 月 28 日星期六。${days > 0 ? `還有 <b>${days}</b> 天，` : ''}這次竹北有 ${total} 位候選人，我們一位一位查了經歷、政績、政見和爭議。</p>
+        <p class="hero-cta"><a class="btn" href="#/quiz">只看政見做盲測</a><a class="btn ghost" href="#/offices">先看候選人</a></p>
+      </div>
+    </section>`;
+  },
+  // 竹葉順著風飄過，掠過「北」「竹」時才把字刷出來；只在第一次進首頁時播放
+  afterRender(path, main) {
+    if (path !== '') return;
+    const hero = main.querySelector('.hero');
+    if (!hero) return;
+    const chars = [...hero.querySelectorAll('.couplet .bamboo')];
+    const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (reduce || this.leavesPlayed) return;
+    this.leavesPlayed = true;
+    hero.classList.add('leaf-ready');
+
+    const hb = hero.getBoundingClientRect();
+    const vw = document.documentElement.clientWidth;
+    const layer = document.createElement('div');
+    layer.className = 'leaf-layer';
+    layer.setAttribute('aria-hidden', 'true');
+    layer.style.left = `${-hb.left}px`;
+    layer.style.width = `${vw}px`;
+    hero.appendChild(layer);
+
+    const tones = ['#3f6b4e', '#557f5f', '#6d9473', '#476f52'];
+    const leaf = (i) => `<svg viewBox="0 0 64 16" width="74" height="19"><path d="M1 8 C 14 1.5, 42 0, 63 7 C 42 12.5, 14 14.5, 1 8 Z" fill="${tones[i % tones.length]}"/><path d="M4 8 L 60 7.3" stroke="rgba(255,255,255,.35)" stroke-width=".8"/></svg>`;
+
+    // 每片葉子：從畫面左外飛到右外，在 (xc, yc) 通過；有目標字的葉子經過時把字刷出來
+    const flights = [];
+    const at = (el) => { const r = el.getBoundingClientRect(); return { x: r.left + r.width / 2, y: r.top - hb.top + r.height / 2 }; };
+    chars.forEach((c, i) => { const p = at(c); flights.push({ xc: p.x, yc: p.y, delay: 2300 + i * 1100, dur: 4200, amp: 28, k: 1.05, target: c }); });
+    flights.push({ xc: vw * 0.62, yc: hb.height * 0.58, delay: 1900, dur: 5600, amp: 30, k: 0.85 });
+    flights.push({ xc: vw * 0.35, yc: hb.height * 0.88, delay: 3600, dur: 6400, amp: 22, k: 1.25 });
+
+    flights.forEach((f, i) => {
+      f.el = document.createElement('span');
+      f.el.className = 'leaf';
+      f.el.innerHTML = leaf(i);
+      layer.appendChild(f.el);
+      f.x0 = -90; f.x1 = vw + 90;
+      f.tc = (f.xc - f.x0) / (f.x1 - f.x0);
+      f.spin = (i % 2 ? -1 : 1) * (10 + i * 3);
+    });
+
+    const start = performance.now();
+    const y = (f, t) => f.yc + f.amp * Math.sin(2 * Math.PI * f.k * (t - f.tc)) - (t - f.tc) * 46;
+    const tick = (now) => {
+      let alive = false;
+      for (const f of flights) {
+        const t = (now - start - f.delay) / f.dur;
+        if (t < 0) { alive = true; continue; }
+        if (t > 1) { f.el.style.opacity = 0; continue; }
+        alive = true;
+        const x = f.x0 + (f.x1 - f.x0) * t;
+        const yy = y(f, t);
+        const dy = y(f, t + 0.002) - yy;
+        const dx = (f.x1 - f.x0) * 0.002;
+        const angle = Math.atan2(dy, dx) * 180 / Math.PI + Math.sin(t * 18 + f.spin) * 14;
+        f.el.style.opacity = Math.min(1, t * 8, (1 - t) * 8);
+        f.el.style.transform = `translate(${x - 37}px, ${yy - 9}px) rotate(${angle}deg)`;
+        if (f.target && t >= f.tc - 0.01) { f.target.classList.add('revealed'); f.target = null; }
+      }
+      if (alive) requestAnimationFrame(tick);
+      else { layer.remove(); chars.forEach((c) => c.classList.add('revealed')); }
+    };
+    requestAnimationFrame(tick);
+    // 保險：無論動畫是否跑完，8 秒後字一定出現
+    setTimeout(() => chars.forEach((c) => c.classList.add('revealed')), 8000);
+  },
+};
+</script>
+<script src="assets/data.js"></script>
+<script src="assets/core.js"></script>
+</body>
+</html>
